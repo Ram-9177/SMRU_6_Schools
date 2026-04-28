@@ -58,7 +58,6 @@ export default function Page({
                 level: program?.level,
                 duration: program?.duration,
                 eligibility: program?.eligibility,
-                offers: program?.fees ? { price: program.fees.replace(/[^0-9]/g, ''), priceCurrency: "INR" } : undefined
               })
             : null
         }
