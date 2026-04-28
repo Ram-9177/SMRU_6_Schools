@@ -26,5 +26,5 @@ export const UNIVERSITY_INFO = {
   mapEmbedUrl: "https://maps.google.com/maps?q=St.%20Mary%27s%20University%2C%20Deshmukhi&output=embed",
 } as const;
 
-export const SEO_UPDATE_NOTE = "Information will be updated after official confirmation.";
-export const MANUAL_VERIFICATION_LABEL = "Pending publication";
+export const SEO_UPDATE_NOTE = "This information is not published yet. Please use the official contact channels for the latest verified guidance.";
+export const MANUAL_VERIFICATION_LABEL = "Official document not published yet";
