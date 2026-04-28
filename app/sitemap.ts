@@ -8,10 +8,10 @@ import { safeSlug } from "../src/lib/shared/program-utils";
 const base = process.env.NEXT_PUBLIC_SITE_URL || "https://smru.edu.in";
 
 // Build date used as lastModified for static routes
-const LAST_MODIFIED = new Date("2026-04-27");
+const LAST_MODIFIED = new Date("2026-04-28");
 
 // Tier 1: Conversion & Trust pages — highest priority after homepage
-const tier1Routes = ["/admissions", "/phd-admissions", "/schools", "/about", "/contact"];
+const tier1Routes = ["/admissions", "/phd-admissions", "/schools", "/about", "/contact", "/law"];
 
 // Tier 2: Academic catalogue & campus pages
 const tier2Routes = [
@@ -21,6 +21,9 @@ const tier2Routes = [
   "/careers",
   "/partner",
   "/leadership/all",
+  "/search",
+  "/schools/law",
+  "/schools/law/legal-studies",
 ];
 
 // Tier 3: Legal & utility pages — included for crawlability, low priority
@@ -45,6 +48,16 @@ const partnerRoutes = [
   "/partner/nst",
   "/partner/onnbikes",
   "/partner/veloces",
+];
+
+const lawProgramRoutes = [
+  "/schools/law/legal-studies/ba-llb-hons",
+  "/schools/law/legal-studies/bba-llb-hons",
+  "/schools/law/legal-studies/bsc-llb-hons",
+  "/schools/law/legal-studies/llb-hons",
+  "/schools/law/legal-studies/llb-general",
+  "/schools/law/legal-studies/llm",
+  "/schools/law/legal-studies/phd-law",
 ];
 
 const infoPageRoutes = SHOW_PUBLIC_INFO_PAGES ? INFO_PAGES.map((page) => `/${page.slug}`) : [];
@@ -92,6 +105,13 @@ export default function sitemap(): MetadataRoute.Sitemap {
     priority: 0.5,
   }));
 
+  const lawProgramEntries: MetadataRoute.Sitemap = lawProgramRoutes.map((path) => ({
+    url: `${base}${path}/`,
+    lastModified: LAST_MODIFIED,
+    changeFrequency: "monthly",
+    priority: 0.72,
+  }));
+
   return [
     // Homepage — highest authority
     {
@@ -123,6 +143,8 @@ export default function sitemap(): MetadataRoute.Sitemap {
     })),
     // Dynamic school/dept/program routes
     ...schoolRoutes,
+    // Law programme aliases
+    ...lawProgramEntries,
     // Leadership profiles
     ...leadershipRoutes,
     // Trust & disclosure info pages
