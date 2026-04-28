@@ -2,7 +2,7 @@
 import React, { useEffect, useRef } from "react";
 import { FaTimes } from "react-icons/fa";
 
-const ENQUIRY_CTPL_FORM_ID = "1c76a1c8dbc7278676884e00e5a46d7f54115d6b49a81b2210941f1a12f6771a";
+const ENQUIRY_CTPL_FORM_ID = "d1f77bfe0d14579a3b3bc9ea65912e18d15308bc1de18afe198ae57f7cf53f14";
 const CTPL_SCRIPT_SRC = "https://apply.smru.edu.in/js/ctplform.js";
 const CTPL_CONTAINER_ID = "ctplform";
 
@@ -12,7 +12,6 @@ export default function ApplyModal({ open, onClose }) {
   useEffect(() => {
     if (!open) return;
 
-    // Lock body scroll
     document.body.style.overflow = "hidden";
     const onKey = (e) => e.key === "Escape" && onClose?.();
     window.addEventListener("keydown", onKey);
@@ -77,6 +76,7 @@ export default function ApplyModal({ open, onClose }) {
           <div className="ctpl-popup-shell cut-corner-panel bg-white shadow-2xl overflow-hidden sm:bg-transparent sm:shadow-none">
             <div
               id={CTPL_CONTAINER_ID}
+              form-id={ENQUIRY_CTPL_FORM_ID}
               className="min-h-[180px] flex items-center justify-center p-4 sm:p-0 max-h-[calc(100vh-7rem)] overflow-y-auto overflow-x-hidden"
             />
           </div>
