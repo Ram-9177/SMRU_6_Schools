@@ -1,0 +1,290 @@
+- generic [active] [ref=e1]:
+  - img "SMRU Logo" [ref=e4]
+  - generic [ref=e5]:
+    - generic [ref=e6]:
+      - generic [ref=e8]:
+        - generic [ref=e10]:
+          - 'link "Notice: Revised Schedule for PhD Admissions 2026-27 (Download Official Notice)" [ref=e11] [cursor=pointer]':
+            - /url: /assets/Notice_Revised_Schedule_PhD_Admissions_2026_27.docx
+          - 'link "Important: PhD Addendum & Revised Timeline available for download" [ref=e12] [cursor=pointer]':
+            - /url: /assets/SMRU_PhD_Addendum_Formatted.docx
+          - 'link "Deadline: PhD Application End Date is 10-May-2026" [ref=e13] [cursor=pointer]':
+            - /url: /phd-admissions/
+          - 'link "Daily Update: Admissions open for UG, PG, and PhD programs" [ref=e14] [cursor=pointer]':
+            - /url: /admissions/
+          - 'link "Important: Scholarship support available up to 50% (terms apply)" [ref=e15] [cursor=pointer]':
+            - /url: /admissions/
+          - 'link "Flash: PhD Entrance Test scheduled on 15-May-2026" [ref=e16] [cursor=pointer]':
+            - /url: /phd-admissions/
+          - 'link "Notice: Campus visits and counseling slots open this week" [ref=e17] [cursor=pointer]':
+            - /url: /contact/
+          - 'link "Notice: Revised Schedule for PhD Admissions 2026-27 (Download Official Notice)" [ref=e18] [cursor=pointer]':
+            - /url: /assets/Notice_Revised_Schedule_PhD_Admissions_2026_27.docx
+          - 'link "Important: PhD Addendum & Revised Timeline available for download" [ref=e19] [cursor=pointer]':
+            - /url: /assets/SMRU_PhD_Addendum_Formatted.docx
+          - 'link "Deadline: PhD Application End Date is 10-May-2026" [ref=e20] [cursor=pointer]':
+            - /url: /phd-admissions/
+          - 'link "Daily Update: Admissions open for UG, PG, and PhD programs" [ref=e21] [cursor=pointer]':
+            - /url: /admissions/
+          - 'link "Important: Scholarship support available up to 50% (terms apply)" [ref=e22] [cursor=pointer]':
+            - /url: /admissions/
+          - 'link "Flash: PhD Entrance Test scheduled on 15-May-2026" [ref=e23] [cursor=pointer]':
+            - /url: /phd-admissions/
+          - 'link "Notice: Campus visits and counseling slots open this week" [ref=e24] [cursor=pointer]':
+            - /url: /contact/
+        - link "Notice" [ref=e25] [cursor=pointer]:
+          - /url: /admissions/
+          - generic [ref=e26]: Notice
+      - navigation [ref=e27]:
+        - generic [ref=e28]:
+          - link "St. Mary's Rehabilitation University Logo" [ref=e29] [cursor=pointer]:
+            - /url: /
+            - img "St. Mary's Rehabilitation University Logo" [ref=e30]
+          - button "Toggle menu" [ref=e31] [cursor=pointer]
+    - generic:
+      - generic:
+        - generic:
+          - button "Close menu":
+            - img
+        - generic:
+          - navigation:
+            - generic:
+              - link "Home":
+                - /url: /
+            - generic:
+              - link "About us":
+                - /url: /about/
+            - generic:
+              - generic:
+                - button "Academics":
+                  - generic: Academics
+                  - generic:
+                    - img
+                - list:
+                  - listitem:
+                    - link "Schools & Programs":
+                      - /url: /schools/
+                  - listitem:
+                    - link "Academic Structure":
+                      - /url: /academic-structure/
+            - generic:
+              - generic:
+                - button "Admissions":
+                  - generic: Admissions
+                  - generic:
+                    - img
+                - list:
+                  - listitem:
+                    - link "Admission Overview":
+                      - /url: /admissions/
+                  - listitem:
+                    - link "Ph.D Admissions":
+                      - /url: /phd-admissions/
+            - generic:
+              - link "Discover":
+                - /url: /leadership/all/
+            - generic:
+              - link "Contact us":
+                - /url: /contact/
+        - generic:
+          - button "Enquire for 2026 Admissions": ENQUIRE NOW
+          - paragraph: © 2026 ST. MARY'S REHABILITATION UNIVERSITY
+    - main [ref=e36]:
+      - generic [ref=e37]:
+        - generic [ref=e38]:
+          - generic [ref=e39]:
+            - img "SMRU Logo" [ref=e40]
+            - paragraph [ref=e42]: Campus Expedition
+          - button "Exit App" [ref=e43] [cursor=pointer]:
+            - generic [ref=e44]: Exit App
+        - main [ref=e45]:
+          - generic [ref=e49]:
+            - generic [ref=e50]: Institutional Guide
+            - heading "Explore SMRU Campus" [level=1] [ref=e51]:
+              - text: Explore
+              - text: SMRU Campus
+            - paragraph [ref=e52]: Begin a point-to-point campus journey through SMRU's academic blocks, healthcare spaces, student facilities, and open learning areas.
+            - button "Enter Experience" [ref=e53] [cursor=pointer]:
+              - text: Enter Experience
+              - img [ref=e54]
+        - generic [ref=e57]:
+          - button [ref=e58] [cursor=pointer]:
+            - img [ref=e60]
+          - generic [ref=e62]:
+            - link "WHATSAPP" [ref=e63] [cursor=pointer]:
+              - /url: https://wa.me/919010455590
+              - img [ref=e65]
+              - generic [ref=e67]: WHATSAPP
+            - link "CALL US" [ref=e68] [cursor=pointer]:
+              - /url: tel:+919010455590
+              - img [ref=e70]
+              - generic [ref=e72]: CALL US
+            - link "APPLY" [ref=e73] [cursor=pointer]:
+              - /url: https://apply.smru.edu.in
+              - img [ref=e75]
+              - generic [ref=e77]: APPLY
+            - link "ENQUIRY" [ref=e78] [cursor=pointer]:
+              - /url: https://smru.edu.in/contact
+              - img [ref=e80]
+              - generic [ref=e82]: ENQUIRY
+            - link "BROCHURE" [ref=e83] [cursor=pointer]:
+              - /url: "#"
+              - img [ref=e85]
+              - generic [ref=e87]: BROCHURE
+    - contentinfo [ref=e89]:
+      - generic [ref=e90]:
+        - generic [ref=e91]:
+          - generic [ref=e92]:
+            - generic [ref=e93]:
+              - generic [ref=e94]:
+                - heading "ST.MARY'S" [level=3] [ref=e95]
+                - paragraph [ref=e96]: Rehabilitation University
+              - paragraph [ref=e97]: Pioneering allied health and rehabilitation sciences since 1996.
+            - generic [ref=e98]:
+              - heading "Contact" [level=4] [ref=e99]
+              - generic [ref=e100]:
+                - generic [ref=e101]:
+                  - img [ref=e102]
+                  - paragraph [ref=e104]: Near Ramoji Film City, Deshmukhi Village, Pochampally Mandal, Yadadri Bhuvanagiri District, Hyderabad, Telangana - 508284, India.
+                - generic [ref=e105]:
+                  - img [ref=e106]
+                  - generic [ref=e108]:
+                    - paragraph [ref=e109]: "08071296016"
+                    - paragraph [ref=e110]: +91-7331119432
+                - generic [ref=e111]:
+                  - img [ref=e112]
+                  - paragraph [ref=e114]: reach@smru.edu.in
+            - generic [ref=e115]:
+              - heading "Social" [level=4] [ref=e116]
+              - generic [ref=e117]:
+                - link "YouTube" [ref=e118] [cursor=pointer]:
+                  - /url: https://www.youtube.com/@SMRUniversity
+                  - img [ref=e119]
+                - link "Facebook" [ref=e121] [cursor=pointer]:
+                  - /url: https://www.facebook.com/SMRUniversity
+                  - img [ref=e122]
+                - link "Instagram" [ref=e124] [cursor=pointer]:
+                  - /url: https://www.instagram.com/smruhyderabad
+                  - img [ref=e125]
+                - link "LinkedIn" [ref=e127] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/smruhyderabad/
+                  - img [ref=e128]
+          - generic [ref=e130]:
+            - heading "Academics" [level=4] [ref=e131]
+            - navigation "Academics" [ref=e132]:
+              - list [ref=e133]:
+                - listitem [ref=e134]:
+                  - link "All Academic Schools" [ref=e135] [cursor=pointer]:
+                    - /url: /schools/
+                - listitem [ref=e136]:
+                  - link "School of Rehabilitation Sciences" [ref=e137] [cursor=pointer]:
+                    - /url: /schools/rehabilitation-sciences/
+                - listitem [ref=e138]:
+                  - link "School of Health & Allied Health Sciences" [ref=e139] [cursor=pointer]:
+                    - /url: /schools/health-allied-health-sciences/
+                - listitem [ref=e140]:
+                  - link "School of Psychology" [ref=e141] [cursor=pointer]:
+                    - /url: /schools/psychology/
+                - listitem [ref=e142]:
+                  - link "School of Nursing" [ref=e143] [cursor=pointer]:
+                    - /url: /schools/nursing-sciences/
+                - listitem [ref=e144]:
+                  - link "School of Engineering & Emerging Technologies" [ref=e145] [cursor=pointer]:
+                    - /url: /schools/engineering-emerging-technologies/
+                - listitem [ref=e146]:
+                  - link "School of Law" [ref=e147] [cursor=pointer]:
+                    - /url: /schools/law/
+          - generic [ref=e148]:
+            - generic [ref=e149]:
+              - heading "Admissions" [level=4] [ref=e150]
+              - navigation "Admissions" [ref=e151]:
+                - list [ref=e152]:
+                  - listitem [ref=e153]:
+                    - button "Apply Now" [ref=e154] [cursor=pointer]
+                  - listitem [ref=e155]:
+                    - link "Admissions Overview" [ref=e156] [cursor=pointer]:
+                      - /url: /admissions/
+                  - listitem [ref=e157]:
+                    - link "Ph.D. Admissions" [ref=e158] [cursor=pointer]:
+                      - /url: /phd-admissions/
+                  - listitem [ref=e159]:
+                    - link "Fee Structure" [ref=e160] [cursor=pointer]:
+                      - /url: /fee-structure/
+                  - listitem [ref=e161]:
+                    - link "Admission Policy" [ref=e162] [cursor=pointer]:
+                      - /url: /admission-policy/
+            - generic [ref=e163]:
+              - heading "Campus" [level=4] [ref=e164]
+              - navigation "Campus" [ref=e165]:
+                - list [ref=e166]:
+                  - listitem [ref=e167]:
+                    - link "Campus Location" [ref=e168] [cursor=pointer]:
+                      - /url: /campus-location-hyderabad/
+                  - listitem [ref=e169]:
+                    - link "Visit Campus" [ref=e170] [cursor=pointer]:
+                      - /url: /campus-360/
+                  - listitem [ref=e171]:
+                    - link "Hostel Facilities" [ref=e172] [cursor=pointer]:
+                      - /url: /hostel/
+          - generic [ref=e173]:
+            - heading "Student Support" [level=4] [ref=e174]
+            - navigation "Student Support" [ref=e175]:
+              - list [ref=e176]:
+                - listitem [ref=e177]:
+                  - link "Anti-Ragging" [ref=e178] [cursor=pointer]:
+                    - /url: /anti-ragging/
+                - listitem [ref=e179]:
+                  - link "Grievance Redressal" [ref=e180] [cursor=pointer]:
+                    - /url: /grievance-redressal/
+                - listitem [ref=e181]:
+                  - link "Ombudsperson" [ref=e182] [cursor=pointer]:
+                    - /url: /ombudsperson/
+                - listitem [ref=e183]:
+                  - link "Admissions" [ref=e184] [cursor=pointer]:
+                    - /url: /admissions/
+                - listitem [ref=e185]:
+                  - link "Career Guidance" [ref=e186] [cursor=pointer]:
+                    - /url: /contact/
+                - listitem [ref=e187]:
+                  - link "Contact Directory" [ref=e188] [cursor=pointer]:
+                    - /url: /contact-directory/
+          - generic [ref=e189]:
+            - heading "Information & Disclosures" [level=4] [ref=e190]
+            - navigation "University Information & Disclosures" [ref=e191]:
+              - list [ref=e192]:
+                - listitem [ref=e193]:
+                  - link "Approvals & Recognitions" [ref=e194] [cursor=pointer]:
+                    - /url: /approvals-recognitions/
+                - listitem [ref=e195]:
+                  - link "UGC Recognition Letter" [ref=e196] [cursor=pointer]:
+                    - /url: /assets/St.%20Marys%20Rehabilitation%20University%20UGC%20recognition%20letter%202(f).pdf
+                - listitem [ref=e197]:
+                  - link "University Establishment Act" [ref=e198] [cursor=pointer]:
+                    - /url: /assets/SMRU%20Act%2010%20of%202026.pdf
+                - listitem [ref=e199]:
+                  - link "Mandatory Disclosure" [ref=e200] [cursor=pointer]:
+                    - /url: /mandatory-disclosure/
+                - listitem [ref=e201]:
+                  - link "Public Information" [ref=e202] [cursor=pointer]:
+                    - /url: /public-information/
+                - listitem [ref=e203]:
+                  - link "Statutory Disclosures" [ref=e204] [cursor=pointer]:
+                    - /url: /statutory-disclosures/
+                - listitem [ref=e205]:
+                  - link "IQAC & Quality" [ref=e206] [cursor=pointer]:
+                    - /url: /iqac-quality-assurance/
+        - generic [ref=e207]:
+          - button "Scroll to top" [ref=e208] [cursor=pointer]:
+            - img [ref=e209]
+          - generic [ref=e211]:
+            - generic [ref=e212]:
+              - paragraph [ref=e213]: SMRU Hyderabad • Since 1996
+              - paragraph [ref=e214]: Copyrights © 2026 St. Mary's Rehabilitation University. All rights reserved.
+            - generic [ref=e215]:
+              - link "Privacy Policy" [ref=e216] [cursor=pointer]:
+                - /url: /privacy-policy/
+              - link "Terms Of Service" [ref=e217] [cursor=pointer]:
+                - /url: /terms-of-service/
+              - link "Academics" [ref=e218] [cursor=pointer]:
+                - /url: /schools/
+  - alert [ref=e219]

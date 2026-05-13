@@ -1,0 +1,537 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e2]:
+    - generic [ref=e4]:
+      - generic [ref=e5]: Flash
+      - generic [ref=e7]:
+        - 'link "Notice: Revised Schedule for PhD Admissions 2026-27 (Download Official Notice)" [ref=e8] [cursor=pointer]':
+          - /url: /assets/Notice_Revised_Schedule_PhD_Admissions_2026_27.docx
+        - 'link "Important: PhD Addendum & Revised Timeline available for download" [ref=e9] [cursor=pointer]':
+          - /url: /assets/SMRU_PhD_Addendum_Formatted.docx
+        - 'link "Daily Update: Admissions open for UG, PG, and PhD programs" [ref=e10] [cursor=pointer]':
+          - /url: /admissions/
+        - 'link "Important: Scholarship support available up to 50% (terms apply)" [ref=e11] [cursor=pointer]':
+          - /url: /admissions/
+        - 'link "Flash: PhD Entrance Test scheduled on 26-April-2026" [ref=e12] [cursor=pointer]':
+          - /url: /phd-admissions/
+        - 'link "Notice: Campus visits and counseling slots open this week" [ref=e13] [cursor=pointer]':
+          - /url: /contact/
+        - 'link "Notice: Revised Schedule for PhD Admissions 2026-27 (Download Official Notice)" [ref=e14] [cursor=pointer]':
+          - /url: /assets/Notice_Revised_Schedule_PhD_Admissions_2026_27.docx
+        - 'link "Important: PhD Addendum & Revised Timeline available for download" [ref=e15] [cursor=pointer]':
+          - /url: /assets/SMRU_PhD_Addendum_Formatted.docx
+        - 'link "Daily Update: Admissions open for UG, PG, and PhD programs" [ref=e16] [cursor=pointer]':
+          - /url: /admissions/
+        - 'link "Important: Scholarship support available up to 50% (terms apply)" [ref=e17] [cursor=pointer]':
+          - /url: /admissions/
+        - 'link "Flash: PhD Entrance Test scheduled on 26-April-2026" [ref=e18] [cursor=pointer]':
+          - /url: /phd-admissions/
+        - 'link "Notice: Campus visits and counseling slots open this week" [ref=e19] [cursor=pointer]':
+          - /url: /contact/
+      - link "Important" [ref=e20] [cursor=pointer]:
+        - /url: /admissions/
+        - generic [ref=e21]: Important
+    - navigation [ref=e22]:
+      - generic [ref=e23]:
+        - link "St. Mary's Rehabilitation University Logo" [ref=e24] [cursor=pointer]:
+          - /url: /
+          - img "St. Mary's Rehabilitation University Logo" [ref=e25]
+        - list [ref=e26]:
+          - listitem [ref=e27]:
+            - link "Home" [ref=e28] [cursor=pointer]:
+              - /url: /
+              - text: Home
+          - listitem [ref=e29]:
+            - link "About" [ref=e30] [cursor=pointer]:
+              - /url: /about/
+              - text: About
+          - listitem [ref=e31]:
+            - link "Academic Schools Mega Menu" [ref=e32] [cursor=pointer]:
+              - /url: /schools/
+              - text: Schools
+              - generic [ref=e33]: ▼
+            - generic [ref=e421]:
+              - generic [ref=e422]:
+                - heading "Academic Units" [level=3] [ref=e423]
+                - generic [ref=e424]:
+                  - button "Rehabilitation Sciences" [ref=e496] [cursor=pointer]:
+                    - generic [ref=e426]: Rehabilitation Sciences
+                  - button "Health & Allied Health Sciences" [ref=e428] [cursor=pointer]:
+                    - generic [ref=e429]: Health & Allied Health Sciences
+                  - button "Psychology" [ref=e430] [cursor=pointer]:
+                    - generic [ref=e431]: Psychology
+                  - button "Nursing" [ref=e432] [cursor=pointer]:
+                    - generic [ref=e433]: Nursing
+                  - button "Engineering & Emerging Technologies ➜" [ref=e497] [cursor=pointer]:
+                    - generic [ref=e435]: Engineering & Emerging Technologies
+                    - generic [ref=e498]: ➜
+                  - button "Law" [ref=e436] [cursor=pointer]:
+                    - generic [ref=e437]: Law
+                - link "Academic Structure Program catalog" [ref=e439] [cursor=pointer]:
+                  - /url: /academic-structure/
+                  - img [ref=e441]
+                  - generic [ref=e443]:
+                    - paragraph [ref=e444]: Academic Structure
+                    - paragraph [ref=e445]: Program catalog
+              - generic [ref=e446]:
+                - generic [ref=e447]:
+                  - paragraph [ref=e448]: School of Engineering & Emerging Technologies
+                  - heading "Programs by Level" [level=2] [ref=e449]
+                - generic [ref=e450]:
+                  - generic [ref=e451]:
+                    - heading "Undergraduate Programs" [level=4] [ref=e452]
+                    - list [ref=e453]:
+                      - listitem [ref=e499]:
+                        - generic [ref=e500]:
+                          - link "B. Tech Computer science in Cyber Forensic & Information Technology" [ref=e501] [cursor=pointer]:
+                            - /url: /schools/engineering-emerging-technologies/computer-science-engineering/btech-cyber-forensic-it/
+                          - generic [ref=e502]: Computer Science & Engineering
+                      - listitem [ref=e503]:
+                        - generic [ref=e504]:
+                          - link "B.Tech Biomedical AI Robotics" [ref=e505] [cursor=pointer]:
+                            - /url: /schools/engineering-emerging-technologies/rehabilitation-engineering-assistive-technologies/btech-biomedical-ai-robotics/
+                          - generic [ref=e506]: Rehabilitation Engineering & Assistive Technologies
+                      - listitem [ref=e507]:
+                        - generic [ref=e508]:
+                          - link "B.Tech CSE" [ref=e509] [cursor=pointer]:
+                            - /url: /schools/engineering-emerging-technologies/computer-science-engineering/btech-cse-iiat/
+                          - generic [ref=e510]: Computer Science & Engineering
+                      - listitem [ref=e511]:
+                        - generic [ref=e512]:
+                          - link "B.Tech CSE (AI & DS)" [ref=e513] [cursor=pointer]:
+                            - /url: /schools/engineering-emerging-technologies/computer-science-engineering/btech-cse-ai-ds-iiat/
+                          - generic [ref=e514]: Computer Science & Engineering
+                      - listitem [ref=e515]:
+                        - generic [ref=e516]:
+                          - link "B.Tech CSE (AI & ML)" [ref=e517] [cursor=pointer]:
+                            - /url: /schools/engineering-emerging-technologies/computer-science-engineering/btech-cse-aiml-niat/
+                          - generic [ref=e518]: Computer Science & Engineering
+                      - listitem [ref=e519]:
+                        - generic [ref=e520]:
+                          - link "B.Tech CSE (Cyber Security)" [ref=e521] [cursor=pointer]:
+                            - /url: /schools/engineering-emerging-technologies/computer-science-engineering/btech-cse-cyber-security/
+                          - generic [ref=e522]: Computer Science & Engineering
+                      - listitem [ref=e523]:
+                        - generic [ref=e524]:
+                          - link "B.Tech Cyber Security AI/ML" [ref=e525] [cursor=pointer]:
+                            - /url: /schools/engineering-emerging-technologies/computer-science-engineering/btech-cyber-security-aiml/
+                          - generic [ref=e526]: Computer Science & Engineering
+                      - listitem [ref=e527]:
+                        - generic [ref=e528]:
+                          - link "B.Tech FinTech & AI" [ref=e529] [cursor=pointer]:
+                            - /url: /schools/engineering-emerging-technologies/computer-science-engineering/btech-fintech-ai/
+                          - generic [ref=e530]: Computer Science & Engineering
+                      - listitem [ref=e531]:
+                        - generic [ref=e532]:
+                          - link "B.Tech in CSE SPECIALIZATION IN VIRTUAL &AUGMENTED REALITY." [ref=e533] [cursor=pointer]:
+                            - /url: /schools/engineering-emerging-technologies/computer-science-engineering/btech-cse-var/
+                          - generic [ref=e534]: Computer Science & Engineering
+                      - listitem [ref=e535]:
+                        - generic [ref=e536]:
+                          - link "B.Tech in Rehabilitation Engineering with Prosthetics & Orthotics / Assistive Technologies" [ref=e537] [cursor=pointer]:
+                            - /url: /schools/engineering-emerging-technologies/rehabilitation-engineering-assistive-technologies/btech-rehabilitation-engineering-prosthetics-orthotics-assistive-technologies/
+                          - generic [ref=e538]: Rehabilitation Engineering & Assistive Technologies
+                      - listitem [ref=e539]:
+                        - generic [ref=e540]:
+                          - link "B.Tech. in CSE (AI)" [ref=e541] [cursor=pointer]:
+                            - /url: /schools/engineering-emerging-technologies/computer-science-engineering/btech-cse-ai-nst/
+                          - generic [ref=e542]: Computer Science & Engineering
+                  - generic [ref=e474]:
+                    - heading "Postgraduate Programs" [level=4] [ref=e475]
+                    - list [ref=e476]:
+                      - listitem [ref=e543]:
+                        - generic [ref=e544]:
+                          - link "M.Tech AI & DS" [ref=e545] [cursor=pointer]:
+                            - /url: /schools/engineering-emerging-technologies/computer-science-engineering/mtech-ai-ds/
+                          - generic [ref=e546]: Computer Science & Engineering
+                  - generic [ref=e485]:
+                    - heading "Diploma / Certificate" [level=4] [ref=e486]
+                    - list [ref=e487]:
+                      - listitem [ref=e488]: No programs listed yet.
+                  - generic [ref=e489]:
+                    - heading "Ph.D. / M.Phil." [level=4] [ref=e490]
+                    - list [ref=e491]:
+                      - listitem [ref=e492]: No programs listed yet.
+                - link "View school dashboard →" [ref=e494] [cursor=pointer]:
+                  - /url: /schools/engineering-emerging-technologies/
+                  - text: View school dashboard
+                  - generic [ref=e495]: →
+          - listitem [ref=e34]:
+            - link "Official University Admissions Mega Menu" [ref=e35] [cursor=pointer]:
+              - /url: /admissions/
+              - text: Admissions
+              - generic [ref=e36]: ▼
+          - listitem [ref=e37]:
+            - link "Careers" [ref=e38] [cursor=pointer]:
+              - /url: /careers/
+              - text: Careers
+          - listitem [ref=e39]:
+            - link "Contact" [ref=e40] [cursor=pointer]:
+              - /url: /contact/
+              - text: Contact
+          - listitem [ref=e41]:
+            - link "Campus 360" [ref=e42] [cursor=pointer]:
+              - /url: /campus-360/
+              - text: Campus 360
+  - main [ref=e43]:
+    - generic [ref=e44]:
+      - generic [ref=e50]:
+        - navigation [ref=e51]:
+          - link "Home" [ref=e52] [cursor=pointer]:
+            - /url: /
+          - generic [ref=e53]: /
+          - generic [ref=e54]: Schools
+        - heading "Schools & Programs" [level=1] [ref=e55]
+        - paragraph [ref=e57]: Institutional Discovery
+        - generic [ref=e58]:
+          - button "Apply Online" [ref=e59] [cursor=pointer]
+          - link "Academic Catalog →" [ref=e60] [cursor=pointer]:
+            - /url: /academic-structure/
+      - generic [ref=e63]:
+        - img [ref=e65]
+        - paragraph [ref=e67]:
+          - strong [ref=e68]: "Admissions Notice:"
+          - text: Our website is currently being updated for the upcoming 2026-27 session. We appreciate your patience and understanding during this process.
+      - generic [ref=e70]:
+        - article [ref=e71]:
+          - paragraph [ref=e72]: "6"
+          - paragraph [ref=e73]: Schools
+        - article [ref=e74]:
+          - paragraph [ref=e75]: "13"
+          - paragraph [ref=e76]: Departments
+        - article [ref=e77]:
+          - paragraph [ref=e78]: 43+
+          - paragraph [ref=e79]: Programs
+      - generic [ref=e81]:
+        - generic [ref=e82]:
+          - generic [ref=e83]: Schools
+          - list [ref=e84]:
+            - listitem [ref=e85]:
+              - button "Rehabilitation Sciences" [ref=e86] [cursor=pointer]
+            - listitem [ref=e87]:
+              - button "Health & Allied Health Sciences" [ref=e88] [cursor=pointer]
+            - listitem [ref=e89]:
+              - button "Psychology" [ref=e90] [cursor=pointer]
+            - listitem [ref=e91]:
+              - button "Nursing" [ref=e92] [cursor=pointer]
+            - listitem [ref=e93]:
+              - button "Engineering & Emerging Technologies" [ref=e94] [cursor=pointer]
+            - listitem [ref=e95]:
+              - button "Law" [ref=e96] [cursor=pointer]
+          - generic [ref=e97]: Click a school to see its programs.
+        - generic [ref=e98]:
+          - generic [ref=e99]:
+            - generic [ref=e100]:
+              - generic [ref=e101]: Engineering & Emerging Technologies
+              - heading "Programs by Level" [level=2] [ref=e103]
+              - paragraph [ref=e105]: Programs in rehabilitation engineering, assistive technologies, computer science, artificial intelligence, machine learning, and data science as shown in the academic structure.
+              - generic [ref=e106]:
+                - generic [ref=e107]:
+                  - generic [ref=e108]: "1"
+                  - strong [ref=e109]: "11"
+                  - generic [ref=e110]: Undergraduate
+                - generic [ref=e111]:
+                  - generic [ref=e112]: "2"
+                  - strong [ref=e113]: "1"
+                  - generic [ref=e114]: Postgraduate
+            - generic [ref=e115]:
+              - generic [ref=e116]:
+                - heading "Undergraduate Programs" [level=3] [ref=e118]
+                - list [ref=e120]:
+                  - listitem [ref=e373]:
+                    - link "B. Tech Computer science in Cyber Forensic & Information Technology" [ref=e374] [cursor=pointer]:
+                      - /url: /schools/engineering-emerging-technologies/computer-science-engineering/btech-cyber-forensic-it/
+                      - generic [ref=e376]: B. Tech Computer science in Cyber Forensic & Information Technology
+                  - listitem [ref=e377]:
+                    - link "B.Tech Biomedical AI Robotics" [ref=e378] [cursor=pointer]:
+                      - /url: /schools/engineering-emerging-technologies/rehabilitation-engineering-assistive-technologies/btech-biomedical-ai-robotics/
+                      - generic [ref=e380]: B.Tech Biomedical AI Robotics
+                  - listitem [ref=e381]:
+                    - link "B.Tech CSE" [ref=e382] [cursor=pointer]:
+                      - /url: /schools/engineering-emerging-technologies/computer-science-engineering/btech-cse-iiat/
+                      - generic [ref=e384]: B.Tech CSE
+                  - listitem [ref=e385]:
+                    - link "B.Tech CSE (AI & DS)" [ref=e386] [cursor=pointer]:
+                      - /url: /schools/engineering-emerging-technologies/computer-science-engineering/btech-cse-ai-ds-iiat/
+                      - generic [ref=e388]: B.Tech CSE (AI & DS)
+                  - listitem [ref=e389]:
+                    - link "B.Tech CSE (AI & ML)" [ref=e390] [cursor=pointer]:
+                      - /url: /schools/engineering-emerging-technologies/computer-science-engineering/btech-cse-aiml-niat/
+                      - generic [ref=e392]: B.Tech CSE (AI & ML)
+                  - listitem [ref=e393]:
+                    - link "B.Tech CSE (Cyber Security)" [ref=e394] [cursor=pointer]:
+                      - /url: /schools/engineering-emerging-technologies/computer-science-engineering/btech-cse-cyber-security/
+                      - generic [ref=e396]: B.Tech CSE (Cyber Security)
+                  - listitem [ref=e397]:
+                    - link "B.Tech Cyber Security AI/ML" [ref=e398] [cursor=pointer]:
+                      - /url: /schools/engineering-emerging-technologies/computer-science-engineering/btech-cyber-security-aiml/
+                      - generic [ref=e400]: B.Tech Cyber Security AI/ML
+                  - listitem [ref=e401]:
+                    - link "B.Tech FinTech & AI" [ref=e402] [cursor=pointer]:
+                      - /url: /schools/engineering-emerging-technologies/computer-science-engineering/btech-fintech-ai/
+                      - generic [ref=e404]: B.Tech FinTech & AI
+                  - listitem [ref=e405]:
+                    - link "B.Tech in CSE SPECIALIZATION IN VIRTUAL &AUGMENTED REALITY." [ref=e406] [cursor=pointer]:
+                      - /url: /schools/engineering-emerging-technologies/computer-science-engineering/btech-cse-var/
+                      - generic [ref=e408]: B.Tech in CSE SPECIALIZATION IN VIRTUAL &AUGMENTED REALITY.
+                  - listitem [ref=e409]:
+                    - link "B.Tech in Rehabilitation Engineering with Prosthetics & Orthotics / Assistive Technologies" [ref=e410] [cursor=pointer]:
+                      - /url: /schools/engineering-emerging-technologies/rehabilitation-engineering-assistive-technologies/btech-rehabilitation-engineering-prosthetics-orthotics-assistive-technologies/
+                      - generic [ref=e412]: B.Tech in Rehabilitation Engineering with Prosthetics & Orthotics / Assistive Technologies
+                  - listitem [ref=e413]:
+                    - link "B.Tech. in CSE (AI)" [ref=e414] [cursor=pointer]:
+                      - /url: /schools/engineering-emerging-technologies/computer-science-engineering/btech-cse-ai-nst/
+                      - generic [ref=e416]: B.Tech. in CSE (AI)
+              - generic [ref=e141]:
+                - heading "Postgraduate Programs" [level=3] [ref=e143]
+                - list [ref=e145]:
+                  - listitem [ref=e417]:
+                    - link "M.Tech AI & DS" [ref=e418] [cursor=pointer]:
+                      - /url: /schools/engineering-emerging-technologies/computer-science-engineering/mtech-ai-ds/
+                      - generic [ref=e420]: M.Tech AI & DS
+          - generic [ref=e154]:
+            - link "View all departments in this school →" [ref=e155] [cursor=pointer]:
+              - /url: /schools/engineering-emerging-technologies/
+            - button "Apply / Enquire" [ref=e156] [cursor=pointer]
+      - generic [ref=e160]:
+        - generic [ref=e161]:
+          - heading "Statutory Trust & Recognition" [level=2] [ref=e162]
+          - paragraph [ref=e163]: St. Mary's Rehabilitation University is a state private university established under the Telangana State Private Universities Act. All clinical and professional programs adhere to respective regulatory bodies and council guidelines.
+          - generic [ref=e164]:
+            - generic [ref=e165]: UGC Recognized
+            - generic [ref=e166]: State Act Established
+            - generic [ref=e167]: Clinical Excellence
+        - generic [ref=e168]:
+          - paragraph [ref=e169]: Admissions Verification
+          - paragraph [ref=e170]:
+            - text: For the 2026-27 academic session, all program intakes and eligibility criteria are as per the latest university board approvals. Prospective students are encouraged to verify program-specific recognition status via the
+            - link "Regulatory Status" [ref=e171] [cursor=pointer]:
+              - /url: /approvals-recognitions/
+            - text: page.
+      - generic [ref=e172]:
+        - generic [ref=e173]:
+          - generic [ref=e174]:
+            - heading "Academic FAQ" [level=2] [ref=e175]
+            - paragraph [ref=e177]: Common Queries regarding Schools & Programs
+          - generic [ref=e178]:
+            - generic [ref=e179]:
+              - 'heading "Q: How many academic schools does SMRU have?" [level=4] [ref=e180]'
+              - paragraph [ref=e181]: SMRU currently houses 7 specialized schools covering Rehabilitation, Health Sciences, Psychology, Engineering, and Management.
+            - generic [ref=e182]:
+              - 'heading "Q: Are the programs recognized by regulatory bodies?" [level=4] [ref=e183]'
+              - paragraph [ref=e184]: Yes, all professional programs like BASLP and B.Ed Special Education are approved by respective councils like RCI.
+            - generic [ref=e185]:
+              - 'heading "Q: What is the admission mode for 2026-27?" [level=4] [ref=e186]'
+              - paragraph [ref=e187]: Admissions are based on merit and university-led entrance examinations for specific clinical tracks.
+            - generic [ref=e188]:
+              - 'heading "Q: Does SMRU offer Ph.D. programs?" [level=4] [ref=e189]'
+              - paragraph [ref=e190]: Yes, the university offers doctoral research pathways in Rehabilitation, Clinical Psychology, and Allied Health sciences.
+        - generic [ref=e191]:
+          - heading "Institutional Resources" [level=2] [ref=e193]
+          - generic [ref=e195]:
+            - link "Department Directory Explore specific clinical and academic departments. Open Page" [ref=e196] [cursor=pointer]:
+              - /url: /departments/
+              - heading "Department Directory" [level=3] [ref=e197]
+              - paragraph [ref=e198]: Explore specific clinical and academic departments.
+              - generic [ref=e199]: Open Page
+            - link "Admissions Portal Start your application for the 2026-27 academic session. Open Page" [ref=e200] [cursor=pointer]:
+              - /url: /admissions/
+              - heading "Admissions Portal" [level=3] [ref=e201]
+              - paragraph [ref=e202]: Start your application for the 2026-27 academic session.
+              - generic [ref=e203]: Open Page
+            - link "University in Telangana Regional authority and state recognition details. Open Page" [ref=e204] [cursor=pointer]:
+              - /url: /university-in-telangana/
+              - heading "University in Telangana" [level=3] [ref=e205]
+              - paragraph [ref=e206]: Regional authority and state recognition details.
+              - generic [ref=e207]: Open Page
+            - link "Regulatory Compliance View all statutory approvals and recognition certificates. Open Page" [ref=e208] [cursor=pointer]:
+              - /url: /approvals-recognitions/
+              - heading "Regulatory Compliance" [level=3] [ref=e209]
+              - paragraph [ref=e210]: View all statutory approvals and recognition certificates.
+              - generic [ref=e211]: Open Page
+            - link "Career & Placements Track records of institutional placement and industrial tie-ups. Open Page" [ref=e212] [cursor=pointer]:
+              - /url: /placements/
+              - heading "Career & Placements" [level=3] [ref=e213]
+              - paragraph [ref=e214]: Track records of institutional placement and industrial tie-ups.
+              - generic [ref=e215]: Open Page
+            - link "Financial Aid Explore scholarships and merit-based aid for students. Open Page" [ref=e216] [cursor=pointer]:
+              - /url: /scholarships/
+              - heading "Financial Aid" [level=3] [ref=e217]
+              - paragraph [ref=e218]: Explore scholarships and merit-based aid for students.
+              - generic [ref=e219]: Open Page
+  - alert [ref=e220]
+  - generic [ref=e221]:
+    - link "WhatsApp" [ref=e222] [cursor=pointer]:
+      - /url: https://wa.me/917331119438
+      - img [ref=e223]
+      - generic [ref=e225]: WhatsApp
+    - link "Call Us" [ref=e226] [cursor=pointer]:
+      - /url: tel:08071296016
+      - img [ref=e227]
+      - generic [ref=e229]: Call Us
+    - link "Apply" [ref=e230] [cursor=pointer]:
+      - /url: https://apply.smru.edu.in
+      - img [ref=e231]
+      - generic [ref=e233]: Apply
+    - button "Enquiry" [ref=e234] [cursor=pointer]:
+      - img [ref=e235]
+      - generic [ref=e237]: Enquiry
+    - link "Brochure" [ref=e238] [cursor=pointer]:
+      - /url: /brochure/
+      - img [ref=e239]
+      - generic [ref=e241]: Brochure
+  - contentinfo [ref=e243]:
+    - generic [ref=e244]:
+      - generic [ref=e245]:
+        - generic [ref=e246]:
+          - generic [ref=e247]:
+            - generic [ref=e248]:
+              - heading "ST.MARY'S" [level=3] [ref=e249]
+              - paragraph [ref=e250]: Rehabilitation University
+            - paragraph [ref=e251]: Pioneering allied health and rehabilitation sciences since 1996.
+          - generic [ref=e252]:
+            - heading "Contact" [level=4] [ref=e253]
+            - generic [ref=e254]:
+              - generic [ref=e255]:
+                - img [ref=e256]
+                - paragraph [ref=e258]: Near Ramoji Film City, Deshmukhi Village, Pochampally Mandal, Yadadri Bhuvanagiri District, Hyderabad, Telangana - 508284, India.
+              - generic [ref=e259]:
+                - img [ref=e260]
+                - generic [ref=e262]:
+                  - paragraph [ref=e263]: "08071296016"
+                  - paragraph [ref=e264]: +91-7331119432
+              - generic [ref=e265]:
+                - img [ref=e266]
+                - paragraph [ref=e268]: reach@smru.edu.in
+          - generic [ref=e269]:
+            - heading "Social" [level=4] [ref=e270]
+            - generic [ref=e271]:
+              - link "YouTube" [ref=e272] [cursor=pointer]:
+                - /url: https://www.youtube.com/@SMRUniversity
+                - img [ref=e273]
+              - link "Facebook" [ref=e275] [cursor=pointer]:
+                - /url: https://www.facebook.com/SMRUniversity
+                - img [ref=e276]
+              - link "Instagram" [ref=e278] [cursor=pointer]:
+                - /url: https://www.instagram.com/smruhyderabad
+                - img [ref=e279]
+              - link "LinkedIn" [ref=e281] [cursor=pointer]:
+                - /url: https://www.linkedin.com/company/smruhyderabad/
+                - img [ref=e282]
+        - generic [ref=e284]:
+          - heading "Academics" [level=4] [ref=e285]
+          - navigation "Academics" [ref=e286]:
+            - list [ref=e287]:
+              - listitem [ref=e288]:
+                - link "All Academic Schools" [ref=e289] [cursor=pointer]:
+                  - /url: /schools/
+              - listitem [ref=e290]:
+                - link "School of Rehabilitation Sciences" [ref=e291] [cursor=pointer]:
+                  - /url: /schools/rehabilitation-sciences/
+              - listitem [ref=e292]:
+                - link "School of Health & Allied Health Sciences" [ref=e293] [cursor=pointer]:
+                  - /url: /schools/health-allied-health-sciences/
+              - listitem [ref=e294]:
+                - link "School of Psychology" [ref=e295] [cursor=pointer]:
+                  - /url: /schools/psychology/
+              - listitem [ref=e296]:
+                - link "School of Nursing" [ref=e297] [cursor=pointer]:
+                  - /url: /schools/nursing-sciences/
+              - listitem [ref=e298]:
+                - link "School of Engineering & Emerging Technologies" [ref=e299] [cursor=pointer]:
+                  - /url: /schools/engineering-emerging-technologies/
+              - listitem [ref=e300]:
+                - link "School of Law" [ref=e301] [cursor=pointer]:
+                  - /url: /schools/law/
+        - generic [ref=e302]:
+          - generic [ref=e303]:
+            - heading "Admissions" [level=4] [ref=e304]
+            - navigation "Admissions" [ref=e305]:
+              - list [ref=e306]:
+                - listitem [ref=e307]:
+                  - button "Apply Now" [ref=e308] [cursor=pointer]
+                - listitem [ref=e309]:
+                  - link "Admissions Overview" [ref=e310] [cursor=pointer]:
+                    - /url: /admissions/
+                - listitem [ref=e311]:
+                  - link "Ph.D. Admissions" [ref=e312] [cursor=pointer]:
+                    - /url: /phd-admissions/
+                - listitem [ref=e313]:
+                  - link "Fee Structure" [ref=e314] [cursor=pointer]:
+                    - /url: /fee-structure/
+                - listitem [ref=e315]:
+                  - link "Admission Policy" [ref=e316] [cursor=pointer]:
+                    - /url: /admission-policy/
+          - generic [ref=e317]:
+            - heading "Campus" [level=4] [ref=e318]
+            - navigation "Campus" [ref=e319]:
+              - list [ref=e320]:
+                - listitem [ref=e321]:
+                  - link "Campus Location" [ref=e322] [cursor=pointer]:
+                    - /url: /campus-location-hyderabad/
+                - listitem [ref=e323]:
+                  - link "Visit Campus" [ref=e324] [cursor=pointer]:
+                    - /url: /visit-campus/
+                - listitem [ref=e325]:
+                  - link "Hostel Facilities" [ref=e326] [cursor=pointer]:
+                    - /url: /hostel/
+        - generic [ref=e327]:
+          - heading "Student Support" [level=4] [ref=e328]
+          - navigation "Student Support" [ref=e329]:
+            - list [ref=e330]:
+              - listitem [ref=e331]:
+                - link "Anti-Ragging" [ref=e332] [cursor=pointer]:
+                  - /url: /anti-ragging/
+              - listitem [ref=e333]:
+                - link "Grievance Redressal" [ref=e334] [cursor=pointer]:
+                  - /url: /grievance-redressal/
+              - listitem [ref=e335]:
+                - link "Ombudsperson" [ref=e336] [cursor=pointer]:
+                  - /url: /ombudsperson/
+              - listitem [ref=e337]:
+                - link "Scholarships & Aid" [ref=e338] [cursor=pointer]:
+                  - /url: /scholarships/
+              - listitem [ref=e339]:
+                - link "Placements" [ref=e340] [cursor=pointer]:
+                  - /url: /placements/
+              - listitem [ref=e341]:
+                - link "Contact Directory" [ref=e342] [cursor=pointer]:
+                  - /url: /contact-directory/
+        - generic [ref=e343]:
+          - heading "Information & Disclosures" [level=4] [ref=e344]
+          - navigation "University Information & Disclosures" [ref=e345]:
+            - list [ref=e346]:
+              - listitem [ref=e347]:
+                - link "Approvals & Recognitions" [ref=e348] [cursor=pointer]:
+                  - /url: /approvals-recognitions/
+              - listitem [ref=e349]:
+                - link "UGC Recognition Letter" [ref=e350] [cursor=pointer]:
+                  - /url: /assets/St.%20Marys%20Rehabilitation%20University%20UGC%20recognition%20letter%202(f).pdf
+              - listitem [ref=e351]:
+                - link "University Establishment Act" [ref=e352] [cursor=pointer]:
+                  - /url: /assets/SMRU%20Act%2010%20of%202026.pdf
+              - listitem [ref=e353]:
+                - link "Mandatory Disclosure" [ref=e354] [cursor=pointer]:
+                  - /url: /mandatory-disclosure/
+              - listitem [ref=e355]:
+                - link "Public Information" [ref=e356] [cursor=pointer]:
+                  - /url: /public-information/
+              - listitem [ref=e357]:
+                - link "Statutory Disclosures" [ref=e358] [cursor=pointer]:
+                  - /url: /statutory-disclosures/
+              - listitem [ref=e359]:
+                - link "IQAC & Quality" [ref=e360] [cursor=pointer]:
+                  - /url: /iqac-quality-assurance/
+      - generic [ref=e361]:
+        - button "Scroll to top" [ref=e362] [cursor=pointer]:
+          - img [ref=e363]
+        - generic [ref=e365]:
+          - generic [ref=e366]:
+            - paragraph [ref=e367]: SMRU Hyderabad • Since 1996
+            - paragraph [ref=e368]: Copyrights © 2026 St. Mary's Rehabilitation University. All rights reserved.
+          - generic [ref=e369]:
+            - link "Privacy Policy" [ref=e370] [cursor=pointer]:
+              - /url: /privacy-policy/
+            - link "Terms Of Service" [ref=e371] [cursor=pointer]:
+              - /url: /terms-of-service/
+            - link "Academics" [ref=e372] [cursor=pointer]:
+              - /url: /schools/

@@ -1,0 +1,413 @@
+{
+  "mapImage": "/campus-guide/images/campus-satellite.jpg",
+  "welcome": {
+    "title": {
+      "en": "Welcome to Saint Mary's Rehabilitation University",
+      "te": "సెయింట్ మెరీస్ రిహాబిలిటేషన్ యూనివర్సిటీకి స్వాగతం",
+      "hi": "सेंट मैरीज़ रिहैबिलिटेशन यूनिवर्सिटी में आपका स्वागत है"
+    },
+    "subtitle": {
+      "en": "Begin a point-to-point campus journey through SMRU's academic blocks, healthcare spaces, student facilities, and open learning areas.",
+      "te": "నిజైన ఎస్ఎంఆర్యూ మ్యాప్ పాయింట్లు, సదుపాయాలు, మరియు సందర్శకుల ప్రదేశాలతో గైడెడ్ క్యాంపస్ రూట్‌ను ప్రారంభించండి.",
+      "hi": "सेंट मैरीज़ रिहैबिलिटेशन यूनिवर्सिटी के वर्चुअल टूर में आपका स्वागत है—यहाँ से आपका 120 एकड़ के पॉइंट-टू-पॉइंट अनुभव की शुरुआत होती है।"
+    },
+    "audioFileName": "welcome.mp3"
+  },
+  "tour": {
+    "title": {
+      "en": "SMRU Campus Guide",
+      "te": "ఎస్ఎంఆర్యూ క్యాంపస్ గైడ్",
+      "hi": "एसएमआरयू कैंपस गाइड"
+    },
+    "description": {
+      "en": "A guided English campus route built from the official SMRU tour points for physical and virtual visits.",
+      "te": "భౌతిక మరియు వర్చువల్ టూర్ల కోసం అధికారిక క్యాంపస్ టూర్ మ్యాప్ పాయింట్లతో రూపొందించిన సాధారణ సందర్శకుల మార్గం.",
+      "hi": "आधिकारिक एसएमआरयू टूर पॉइंट्स से बना एक गाइडेड हिंदी कैंपस रूट।"
+    }
+  },
+  "pointOrder": [
+    "point-1",
+    "point-2",
+    "point-3",
+    "point-4",
+    "point-5",
+    "point-6",
+    "point-7",
+    "point-8",
+    "point-9",
+    "point-10",
+    "point-gh",
+    "point-bh",
+    "point-mp",
+    "point-ar",
+    "point-17",
+    "point-18",
+    "point-19",
+    "point-20",
+    "point-21",
+    "point-22"
+  ],
+  "points": [
+    {
+      "id": "point-1",
+      "latitude": 17.33202,
+      "longitude": 78.72782,
+      "audioFileName": "entry-gate-combined.mp3",
+      "mapX": 90.87,
+      "mapY": 24.93,
+      "title": {
+        "en": "Main Entrance and Campus Overview & Entry Gate",
+        "te": "ప్రధాన ప్రవేశ ద్వారం మరియు క్యాంపస్ అవలోకనం",
+        "hi": "Main Entrance and Campus Overview & Entry Gate"
+      },
+      "transcript": {
+        "en": "Welcome first, then campus overview and entry gate.",
+        "te": "Welcome first, then campus overview and entry gate.",
+        "hi": "Welcome first, then campus overview and entry gate."
+      }
+    },
+    {
+      "id": "point-2",
+      "latitude": 17.33218,
+      "longitude": 78.7269,
+      "audioFileName": "student-cafeteria.mp3",
+      "mapX": 77.06,
+      "mapY": 18.32,
+      "title": {
+        "en": "Canteen",
+        "te": "క్యాంటీన్",
+        "hi": "Canteen"
+      },
+      "transcript": {
+        "en": "Main Canteen",
+        "te": "Main Canteen",
+        "hi": "Main Canteen"
+      }
+    },
+    {
+      "id": "point-3",
+      "latitude": 17.33109,
+      "longitude": 78.72788,
+      "audioFileName": "hostel-block-ground.mp3",
+      "mapX": 91.77,
+      "mapY": 63.34,
+      "title": {
+        "en": "Hostel Block",
+        "te": "హాస్టల్ బ్లాక్",
+        "hi": "Hostel Block"
+      },
+      "transcript": {
+        "en": "Hostel's - Demo Room's",
+        "te": "Hostel's - Demo Room's",
+        "hi": "Hostel's - Demo Room's"
+      }
+    },
+    {
+      "id": "point-4",
+      "latitude": 17.33082,
+      "longitude": 78.72861,
+      "audioFileName": "a-one-block.mp3",
+      "mapX": 102.73,
+      "mapY": 74.49,
+      "title": {
+        "en": "A One Block",
+        "te": "ఏ వన్ బ్లాక్",
+        "hi": "A One Block"
+      },
+      "transcript": {
+        "en": "A One Block",
+        "te": "ఏ వన్ బ్లాక్",
+        "hi": "A One Block"
+      }
+    },
+    {
+      "id": "point-5",
+      "latitude": 17.33189,
+      "longitude": 78.72677,
+      "audioFileName": "electric-bikes.mp3",
+      "mapX": 75.1,
+      "mapY": 30.3,
+      "title": {
+        "en": "Rent a Bike Facility",
+        "te": "ఎలక్ట్రిక్ బైక్స్ / రెంట్ ఎ బైక్",
+        "hi": "Rent a Bike Facility"
+      },
+      "transcript": {
+        "en": "Rent a Bike Facility",
+        "te": "ఎలక్ట్రిక్ బైక్స్ / రెంట్ ఎ బైక్",
+        "hi": "Rent a Bike Facility"
+      }
+    },
+    {
+      "id": "point-6",
+      "latitude": 17.3319,
+      "longitude": 78.72644,
+      "audioFileName": "play-fitness-complex.mp3",
+      "mapX": 70.15,
+      "mapY": 29.88,
+      "title": {
+        "en": "Multi-Disciplinary Play and Fitness Complex",
+        "te": "ప్లే అండ్ ఫిట్‌నెస్ కాంప్లెక్స్",
+        "hi": "Multi-Disciplinary Play and Fitness Complex"
+      },
+      "transcript": {
+        "en": "Multi-Disciplinary Play and Fitness Complex",
+        "te": "ప్లే అండ్ ఫిట్‌నెస్ కాంప్లెక్స్",
+        "hi": "Multi-Disciplinary Play and Fitness Complex"
+      }
+    },
+    {
+      "id": "point-7",
+      "latitude": 17.33197,
+      "longitude": 78.72589,
+      "audioFileName": "central-library.mp3",
+      "mapX": 61.89,
+      "mapY": 26.99,
+      "title": {
+        "en": "Central Library",
+        "te": "సెంట్రల్ లైబ్రరీ",
+        "hi": "Central Library"
+      },
+      "transcript": {
+        "en": "Digital Library",
+        "te": "Digital Library",
+        "hi": "Digital Library"
+      }
+    },
+    {
+      "id": "point-8",
+      "latitude": 17.3324,
+      "longitude": 78.72548,
+      "audioFileName": "mba-law-block.mp3",
+      "mapX": 55.73,
+      "mapY": 9.23,
+      "title": {
+        "en": "M B A and Law Block",
+        "te": "ఎం బీ ఏ మరియు లా బ్లాక్",
+        "hi": "M B A and Law Block"
+      },
+      "transcript": {
+        "en": "M B A and Law Block",
+        "te": "ఎం బీ ఏ మరియు లా బ్లాక్",
+        "hi": "M B A and Law Block"
+      }
+    },
+    {
+      "id": "point-9",
+      "latitude": 17.33214,
+      "longitude": 78.72608,
+      "audioFileName": "atm-facility.mp3",
+      "mapX": 64.74,
+      "mapY": 19.97,
+      "title": {
+        "en": "A T M Facility",
+        "te": "ఏ టీ ఎం సదుపాయం",
+        "hi": "A T M Facility"
+      },
+      "transcript": {
+        "en": "A T M Facility",
+        "te": "ఏ టీ ఎం సదుపాయం",
+        "hi": "A T M Facility"
+      }
+    },
+    {
+      "id": "point-10",
+      "latitude": 17.3306,
+      "longitude": 78.72584,
+      "audioFileName": "cricket-ground.mp3",
+      "mapX": 61.14,
+      "mapY": 83.58,
+      "title": {
+        "en": "Cricket Ground, Gymnasium, and Indoor Games",
+        "te": "క్రికెట్ గ్రౌండ్, వ్యాయామశాల మరియు ఇండోర్ గేమ్స్",
+        "hi": "Cricket Ground, Gymnasium, and Indoor Games"
+      },
+      "transcript": {
+        "en": "Cricket Ground, Gymnasium, and Indoor Games",
+        "te": "క్రికెట్ గ్రౌండ్, వ్యాయామశాల మరియు ఇండోర్ గేమ్స్",
+        "hi": "Cricket Ground, Gymnasium, and Indoor Games"
+      }
+    },
+    {
+      "id": "point-gh",
+      "latitude": 17.33113,
+      "longitude": 78.72537,
+      "audioFileName": "",
+      "mapX": 54.08,
+      "mapY": 61.69,
+      "title": {
+        "en": "Girl's Hostel",
+        "te": "Girl's Hostel",
+        "hi": "Girl's Hostel"
+      },
+      "transcript": {
+        "en": "Girl's Hostel",
+        "te": "Girl's Hostel",
+        "hi": "Girl's Hostel"
+      }
+    },
+    {
+      "id": "point-bh",
+      "latitude": 17.33036,
+      "longitude": 78.72522,
+      "audioFileName": "",
+      "mapX": 51.83,
+      "mapY": 93.49,
+      "title": {
+        "en": "Boy's Hostel",
+        "te": "Boy's Hostel",
+        "hi": "Boy's Hostel"
+      },
+      "transcript": {
+        "en": "Boy's Hostel",
+        "te": "Boy's Hostel",
+        "hi": "Boy's Hostel"
+      }
+    },
+    {
+      "id": "point-mp",
+      "latitude": 17.33139,
+      "longitude": 78.72452,
+      "audioFileName": "",
+      "mapX": 41.32,
+      "mapY": 50.95,
+      "title": {
+        "en": "Mini - Parking Area",
+        "te": "Mini - Parking Area",
+        "hi": "Mini - Parking Area"
+      },
+      "transcript": {
+        "en": "Mini - Parking Area",
+        "te": "Mini - Parking Area",
+        "hi": "Mini - Parking Area"
+      }
+    },
+    {
+      "id": "point-ar",
+      "latitude": 17.3316,
+      "longitude": 78.72432,
+      "audioFileName": "",
+      "mapX": 38.31,
+      "mapY": 42.28,
+      "title": {
+        "en": "Admission Room",
+        "te": "Admission Room",
+        "hi": "Admission Room"
+      },
+      "transcript": {
+        "en": "Admission Room",
+        "te": "Admission Room",
+        "hi": "Admission Room"
+      }
+    },
+    {
+      "id": "point-17",
+      "latitude": 17.33196,
+      "longitude": 78.72433,
+      "audioFileName": "university-block.mp3",
+      "mapX": 38.46,
+      "mapY": 27.41,
+      "title": {
+        "en": "University Block",
+        "te": "యూనివర్సిటీ బ్లాక్",
+        "hi": "University Block"
+      },
+      "transcript": {
+        "en": "University Block",
+        "te": "యూనివర్సిటీ బ్లాక్",
+        "hi": "University Block"
+      }
+    },
+    {
+      "id": "point-18",
+      "latitude": 17.33235,
+      "longitude": 78.72439,
+      "audioFileName": "rehab-block.mp3",
+      "mapX": 39.37,
+      "mapY": 11.3,
+      "title": {
+        "en": "Rehab Block and Hospital",
+        "te": "రిహాబ్ బ్లాక్ మరియు హాస్పిటల్",
+        "hi": "Rehab Block and Hospital"
+      },
+      "transcript": {
+        "en": "Rehab Block and Hospital",
+        "te": "రిహాబ్ బ్లాక్ మరియు హాస్పిటల్",
+        "hi": "Rehab Block and Hospital"
+      }
+    },
+    {
+      "id": "point-19",
+      "latitude": 17.33133,
+      "longitude": 78.7232,
+      "audioFileName": "sensory-park.mp3",
+      "mapX": 21.5,
+      "mapY": 53.43,
+      "title": {
+        "en": "Sensory Park",
+        "te": "సెన్సరీ పార్క్",
+        "hi": "Sensory Park"
+      },
+      "transcript": {
+        "en": "Sensory Park",
+        "te": "సెన్సరీ పార్క్",
+        "hi": "Sensory Park"
+      }
+    },
+    {
+      "id": "point-20",
+      "latitude": 17.33115,
+      "longitude": 78.72306,
+      "audioFileName": "swimming-pool.mp3",
+      "mapX": 19.39,
+      "mapY": 60.86,
+      "title": {
+        "en": "Swimming Pool",
+        "te": "స్విమ్మింగ్ పూల్",
+        "hi": "Swimming Pool"
+      },
+      "transcript": {
+        "en": "Swimming Pool",
+        "te": "స్విమ్మింగ్ పూల్",
+        "hi": "Swimming Pool"
+      }
+    },
+    {
+      "id": "point-21",
+      "latitude": 17.33141,
+      "longitude": 78.72362,
+      "audioFileName": "amphitheatre-signoff-combined.mp3",
+      "mapX": 27.8,
+      "mapY": 50.12,
+      "title": {
+        "en": "Amphitheatre",
+        "te": "ఆంఫిథియేటర్",
+        "hi": "Amphitheatre"
+      },
+      "transcript": {
+        "en": "Amphitheatre",
+        "te": "ఆంఫిథియేటర్",
+        "hi": "Amphitheatre"
+      }
+    },
+    {
+      "id": "point-22",
+      "latitude": 17.33145,
+      "longitude": 78.72698,
+      "audioFileName": "main-block.mp3",
+      "mapX": 78.26,
+      "mapY": 48.47,
+      "title": {
+        "en": "Main Block",
+        "te": "మెయిన్ బ్లాక్",
+        "hi": "Main Block"
+      },
+      "transcript": {
+        "en": "Main Block",
+        "te": "మెయిన్ బ్లాక్",
+        "hi": "Main Block"
+      }
+    }
+  ],
+  "mapAttribution": "Imagery © Esri, Maxar, Earthstar Geographics, GIS User Community"
+}

@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Points</name>
+    <Style id="icon-1899-0288D1-normal">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-0288D1">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-0288D1-normal</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Placemark>
+      <name>Entry Gate</name>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          78.72782,17.33202,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Canteen</name>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          78.7269,17.33218,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Hostel Block</name>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          78.72788,17.33109,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>A One Block</name>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          78.72861,17.33082,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Rent a Bike Facility</name>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          78.72677,17.33189,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Multi-Disciplinary Play and Fitness Complex</name>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          78.72644,17.3319,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Central Library</name>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          78.72589,17.33197,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>M B A and Law Block</name>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          78.72548,17.3324,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>A T M Facility</name>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          78.72608,17.33214,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Cricket Ground, Gymnasium, and Indoor Games</name>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          78.72584,17.3306,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Girl's Hostel</name>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          78.72537,17.33113,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Boy's Hostel</name>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          78.72522,17.33036,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Mini - Parking Area</name>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          78.72452,17.33139,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Admission Room</name>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          78.72432,17.3316,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>University Block</name>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          78.72433,17.33196,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Rehab Block and Hospital</name>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          78.72439,17.33235,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Sensory Park</name>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          78.7232,17.33133,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Swimming Pool</name>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          78.72306,17.33115,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Amphitheatre</name>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          78.72362,17.33141,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Main Block</name>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          78.72698,17.33145,0
+        </coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>

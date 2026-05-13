@@ -1,0 +1,24 @@
+import type { Metadata } from "next";
+import { buildMetadata } from "@/lib/metadata";
+
+export const metadata: Metadata = buildMetadata({
+  title: "Terms of Service | St. Mary's Rehabilitation University",
+  description: "Terms of service for St. Mary's Rehabilitation University website usage.",
+  pathname: "/terms-of-service",
+});
+
+export default function TermsOfServicePage() {
+  return (
+    <main className="mx-auto max-w-4xl px-6 py-24 text-slate-800">
+      <h1 className="text-4xl font-black text-[#0d315c]">Terms of Service</h1>
+      <p className="mt-4 text-sm text-slate-600">
+        These terms govern access and usage of the St. Mary&apos;s University website and digital enquiry tools.
+      </p>
+      <p className="mt-8 text-base leading-7">
+        All program information and admissions timelines are subject to official university updates. For the latest confirmation, contact
+        {" "}
+        <a className="font-semibold text-[#0d315c] underline" href="mailto:reach@smru.edu.in">reach@smru.edu.in</a>.
+      </p>
+    </main>
+  );
+}

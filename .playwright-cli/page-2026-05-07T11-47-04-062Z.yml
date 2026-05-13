@@ -1,0 +1,215 @@
+- main [ref=e2]:
+  - generic [ref=e3]:
+    - generic [ref=e9]:
+      - navigation "Breadcrumb" [ref=e10]:
+        - link "Schools" [ref=e11] [cursor=pointer]:
+          - /url: /schools/
+        - generic [ref=e12]: /
+        - link "Engineering & Emerging Technologies" [ref=e13] [cursor=pointer]:
+          - /url: /schools/engineering-emerging-technologies/
+        - generic [ref=e14]: /
+        - link "Computer Science & Engineering" [ref=e15] [cursor=pointer]:
+          - /url: /schools/engineering-emerging-technologies/computer-science-engineering/
+        - generic [ref=e16]: /
+        - generic [ref=e17]: Program Detail
+      - heading "B.Tech CSE (AI & ML)" [level=1] [ref=e18]
+      - paragraph [ref=e20]: Undergraduate Program
+    - generic [ref=e22]:
+      - img [ref=e24]
+      - paragraph [ref=e26]:
+        - strong [ref=e27]: "Admissions Notice:"
+        - text: Our website is currently being updated for the upcoming 2026-27 session. We appreciate your patience and understanding.
+    - generic [ref=e29]:
+      - complementary [ref=e30]:
+        - heading "Schools" [level=4] [ref=e31]
+        - list [ref=e32]:
+          - listitem [ref=e33]:
+            - link "School of Rehabilitation Sciences" [ref=e34] [cursor=pointer]:
+              - /url: /schools/rehabilitation-sciences/
+          - listitem [ref=e35]:
+            - link "School of Health & Allied Health Sciences" [ref=e36] [cursor=pointer]:
+              - /url: /schools/health-allied-health-sciences/
+          - listitem [ref=e37]:
+            - link "School of Psychology" [ref=e38] [cursor=pointer]:
+              - /url: /schools/psychology/
+          - listitem [ref=e39]:
+            - link "School of Nursing" [ref=e40] [cursor=pointer]:
+              - /url: /schools/nursing-sciences/
+          - listitem [ref=e41]:
+            - link "School of Engineering & Emerging Technologies" [ref=e42] [cursor=pointer]:
+              - /url: /schools/engineering-emerging-technologies/
+          - listitem [ref=e43]:
+            - link "School of Law" [ref=e44] [cursor=pointer]:
+              - /url: /schools/law/
+      - main [ref=e45]:
+        - generic [ref=e46]:
+          - generic [ref=e47]: UNDERGRADUATE PROGRAM
+          - heading "B.Tech CSE (AI & ML)" [level=2] [ref=e48]
+          - generic [ref=e50]:
+            - generic [ref=e51]:
+              - img "Regulatory" [ref=e53]
+              - generic [ref=e54]:
+                - heading "Regulatory Status" [level=4] [ref=e55]
+                - paragraph [ref=e56]: Degree awarded by St. Mary's Rehabilitation University. Program offered under the School of Engineering and Technology. Curriculum aligned with modern artificial intelligence and computing industry requirements.
+            - generic [ref=e57]:
+              - generic [ref=e58]:
+                - generic [ref=e59]:
+                  - heading "Programme Overview" [level=3] [ref=e60]
+                  - paragraph [ref=e61]: Synthesize machine intelligence with core computing to architect autonomous software systems that learn and adapt in real-time. Students learn to build high-precision predictive engines and automate complex information processing tasks, focusing on the high-growth sectors of digital healthcare and automated industrial operations.
+                - generic [ref=e62]:
+                  - generic [ref=e63]:
+                    - heading "What Students Study" [level=4] [ref=e64]
+                    - paragraph [ref=e65]: Core subjects include software development, data analysis, algorithm design, and the application of emerging technologies to solve real-world problems.
+                  - generic [ref=e66]:
+                    - heading "Learning Experience" [level=4] [ref=e67]
+                    - paragraph [ref=e68]: Project-based learning in advanced computing labs, software simulations, and industry-aligned technical workshops.
+              - generic [ref=e69]:
+                - heading "Key Information" [level=4] [ref=e70]
+                - generic [ref=e71]:
+                  - generic [ref=e72]:
+                    - img [ref=e73]
+                    - generic [ref=e75]:
+                      - paragraph [ref=e76]: Duration
+                      - paragraph [ref=e77]: 4 Years (8 Semesters)
+                  - generic [ref=e78]:
+                    - img [ref=e79]
+                    - generic [ref=e81]:
+                      - paragraph [ref=e82]: Level
+                      - paragraph [ref=e83]: UG Program
+                  - generic [ref=e84]:
+                    - img [ref=e85]
+                    - generic [ref=e87]:
+                      - paragraph [ref=e88]: Eligibility
+                      - paragraph [ref=e89]: 10+2 with Physics, Chemistry, and Mathematics (PCM) and entrance process as applicable
+                - paragraph [ref=e91]: Please contact the admissions office for the latest programme-wise fee, intake, eligibility, and admissions guidance.
+            - generic [ref=e93]:
+              - generic [ref=e94]:
+                - generic [ref=e95]:
+                  - img [ref=e96]
+                  - heading "Career & Higher Study Pathways" [level=3] [ref=e98]
+                - paragraph [ref=e99]: Graduates gain the knowledge and technical skills required to become AI engineers and innovators shaping intelligent technology systems.
+                - generic [ref=e100]:
+                  - generic [ref=e101]: AI System Architect
+                  - generic [ref=e102]: Machine Learning Lead
+                  - generic [ref=e103]: Data Strategy Analyst
+                  - generic [ref=e104]: Automation Engineer
+                  - generic [ref=e105]: Research Analyst
+              - generic [ref=e106]:
+                - button "Apply for this programme" [ref=e107] [cursor=pointer]:
+                  - text: Apply for this programme
+                  - img [ref=e108]
+                - link "Check eligibility with Admissions" [ref=e110] [cursor=pointer]:
+                  - /url: /contact/
+                - link "Explore related programmes" [ref=e111] [cursor=pointer]:
+                  - /url: /schools/engineering-emerging-technologies/computer-science-engineering/
+            - generic [ref=e114]:
+              - heading "Industry Specializations" [level=4] [ref=e117]
+              - generic [ref=e118]:
+                - button "NxtWave View Track →" [ref=e119] [cursor=pointer]:
+                  - generic [ref=e120]: NxtWave
+                  - generic [ref=e121]: View Track →
+                - button "Quality Thought View Track →" [ref=e122] [cursor=pointer]:
+                  - generic [ref=e123]: Quality Thought
+                  - generic [ref=e124]: View Track →
+                - button "Intellipaat View Track →" [ref=e125] [cursor=pointer]:
+                  - generic [ref=e126]: Intellipaat
+                  - generic [ref=e127]: View Track →
+                - button "Indian Institute of Advanced Technology View Track →" [ref=e128] [cursor=pointer]:
+                  - generic [ref=e129]: Indian Institute of Advanced Technology
+                  - generic [ref=e130]: View Track →
+                - button "ByteXL View Track →" [ref=e131] [cursor=pointer]:
+                  - generic [ref=e132]: ByteXL
+                  - generic [ref=e133]: View Track →
+            - generic [ref=e134]:
+              - generic [ref=e135]:
+                - heading "Quick Answers" [level=2] [ref=e137]
+                - generic [ref=e139]:
+                  - article [ref=e140]:
+                    - heading "What is B.Tech CSE?" [level=3] [ref=e141]
+                    - generic [ref=e143]: Synthesize machine intelligence with core computing to architect autonomous software systems that learn and adapt in real-time. Students learn to build high-precision predictive engines and automate complex information processing tasks, focusing on the high-growth sectors of digital healthcare and automated industrial operations.
+                  - article [ref=e144]:
+                    - heading "Who can apply to this program?" [level=3] [ref=e145]
+                    - generic [ref=e147]: 10+2 with Physics, Chemistry, and Mathematics (PCM) and entrance process as applicable
+                  - article [ref=e148]:
+                    - heading "What is the duration of this program?" [level=3] [ref=e149]
+                    - generic [ref=e151]: 4 Years (8 Semesters)
+                  - article [ref=e152]:
+                    - heading "How do I apply for this program?" [level=3] [ref=e153]
+                    - generic [ref=e155]: Use the admissions or enquiry actions shown on this program page. This program is listed under Computer Science & Engineering in School of Engineering & Emerging Technologies.
+              - generic [ref=e156]:
+                - heading "Related Pathways & Trust" [level=2] [ref=e158]
+                - generic [ref=e160]:
+                  - link "Computer Science & Engineering Parent department. Open Page" [ref=e161] [cursor=pointer]:
+                    - /url: /schools/engineering-emerging-technologies/computer-science-engineering/
+                    - heading "Computer Science & Engineering" [level=3] [ref=e162]
+                    - paragraph [ref=e163]: Parent department.
+                    - generic [ref=e164]: Open Page
+                  - link "School of Engineering & Emerging Technologies Parent school. Open Page" [ref=e165] [cursor=pointer]:
+                    - /url: /schools/engineering-emerging-technologies/
+                    - heading "School of Engineering & Emerging Technologies" [level=3] [ref=e166]
+                    - paragraph [ref=e167]: Parent school.
+                    - generic [ref=e168]: Open Page
+                  - link "B.Tech CSE Computer Science & Engineering program page Open Page" [ref=e169] [cursor=pointer]:
+                    - /url: /schools/engineering-emerging-technologies/computer-science-engineering/btech-cse-iiat/
+                    - heading "B.Tech CSE" [level=3] [ref=e170]
+                    - paragraph [ref=e171]: Computer Science & Engineering program page
+                    - generic [ref=e172]: Open Page
+                  - link "B.Tech Cyber Security AI/ML Computer Science & Engineering program page Open Page" [ref=e173] [cursor=pointer]:
+                    - /url: /schools/engineering-emerging-technologies/computer-science-engineering/btech-cyber-security-aiml/
+                    - heading "B.Tech Cyber Security AI/ML" [level=3] [ref=e174]
+                    - paragraph [ref=e175]: Computer Science & Engineering program page
+                    - generic [ref=e176]: Open Page
+                  - link "B.Tech FinTech & AI Computer Science & Engineering program page Open Page" [ref=e177] [cursor=pointer]:
+                    - /url: /schools/engineering-emerging-technologies/computer-science-engineering/btech-fintech-ai/
+                    - heading "B.Tech FinTech & AI" [level=3] [ref=e178]
+                    - paragraph [ref=e179]: Computer Science & Engineering program page
+                    - generic [ref=e180]: Open Page
+                  - link "M.Tech AI & DS Computer Science & Engineering program page Open Page" [ref=e181] [cursor=pointer]:
+                    - /url: /schools/engineering-emerging-technologies/computer-science-engineering/mtech-ai-ds/
+                    - heading "M.Tech AI & DS" [level=3] [ref=e182]
+                    - paragraph [ref=e183]: Computer Science & Engineering program page
+                    - generic [ref=e184]: Open Page
+                  - link "B. Tech Computer science in Cyber Forensic & Information Technology Computer Science & Engineering program page Open Page" [ref=e185] [cursor=pointer]:
+                    - /url: /schools/engineering-emerging-technologies/computer-science-engineering/btech-cyber-forensic-it/
+                    - heading "B. Tech Computer science in Cyber Forensic & Information Technology" [level=3] [ref=e186]
+                    - paragraph [ref=e187]: Computer Science & Engineering program page
+                    - generic [ref=e188]: Open Page
+                  - link "B.Tech in CSE SPECIALIZATION IN VIRTUAL &AUGMENTED REALITY. Computer Science & Engineering program page Open Page" [ref=e189] [cursor=pointer]:
+                    - /url: /schools/engineering-emerging-technologies/computer-science-engineering/btech-cse-var/
+                    - heading "B.Tech in CSE SPECIALIZATION IN VIRTUAL &AUGMENTED REALITY." [level=3] [ref=e190]
+                    - paragraph [ref=e191]: Computer Science & Engineering program page
+                    - generic [ref=e192]: Open Page
+                  - link "Scholarships Financial aid for this program. Open Page" [ref=e193] [cursor=pointer]:
+                    - /url: /scholarships/
+                    - heading "Scholarships" [level=3] [ref=e194]
+                    - paragraph [ref=e195]: Financial aid for this program.
+                    - generic [ref=e196]: Open Page
+                  - link "Placements Career outcomes & records. Open Page" [ref=e197] [cursor=pointer]:
+                    - /url: /placements/
+                    - heading "Placements" [level=3] [ref=e198]
+                    - paragraph [ref=e199]: Career outcomes & records.
+                    - generic [ref=e200]: Open Page
+                  - link "Regulatory Status Official approvals. Open Page" [ref=e201] [cursor=pointer]:
+                    - /url: /approvals-recognitions/
+                    - heading "Regulatory Status" [level=3] [ref=e202]
+                    - paragraph [ref=e203]: Official approvals.
+                    - generic [ref=e204]: Open Page
+              - generic [ref=e205]:
+                - heading "Program FAQs" [level=2] [ref=e207]
+                - generic [ref=e209]:
+                  - article [ref=e210]:
+                    - heading "What overview is available for B.Tech CSE?" [level=3] [ref=e211]
+                    - generic [ref=e213]: Synthesize machine intelligence with core computing to architect autonomous software systems that learn and adapt in real-time. Students learn to build high-precision predictive engines and automate complex information processing tasks, focusing on the high-growth sectors of digital healthcare and automated industrial operations.
+                  - article [ref=e214]:
+                    - heading "What eligibility is listed for B.Tech CSE?" [level=3] [ref=e215]
+                    - generic [ref=e217]: 10+2 with Physics, Chemistry, and Mathematics (PCM) and entrance process as applicable
+                  - article [ref=e218]:
+                    - heading "How long does B.Tech CSE take?" [level=3] [ref=e219]
+                    - generic [ref=e221]: 4 Years (8 Semesters)
+                  - article [ref=e222]:
+                    - heading "Are intake, fees, and statutory approvals confirmed for B.Tech CSE?" [level=3] [ref=e223]
+                    - generic [ref=e225]: Verified Official Document. Review official fee, disclosure, and admissions pages for confirmed updates.
+        - generic [ref=e226]:
+          - link "← All Schools" [ref=e227] [cursor=pointer]:
+            - /url: /schools/
+          - button "Apply / Enquire" [ref=e228] [cursor=pointer]

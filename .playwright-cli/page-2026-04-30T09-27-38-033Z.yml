@@ -1,0 +1,709 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e2]:
+    - generic [ref=e4]:
+      - generic [ref=e6]:
+        - 'link "Notice: Revised Schedule for PhD Admissions 2026-27 (Download Official Notice)" [ref=e7] [cursor=pointer]':
+          - /url: /assets/Notice_Revised_Schedule_PhD_Admissions_2026_27.docx
+        - 'link "Important: PhD Addendum & Revised Timeline available for download" [ref=e8] [cursor=pointer]':
+          - /url: /assets/SMRU_PhD_Addendum_Formatted.docx
+        - 'link "Daily Update: Admissions open for UG, PG, and PhD programs" [ref=e9] [cursor=pointer]':
+          - /url: /admissions/
+        - 'link "Important: Scholarship support available up to 50% (terms apply)" [ref=e10] [cursor=pointer]':
+          - /url: /admissions/
+        - 'link "Flash: PhD Entrance Test scheduled on 26-April-2026" [ref=e11] [cursor=pointer]':
+          - /url: /phd-admissions/
+        - 'link "Notice: Campus visits and counseling slots open this week" [ref=e12] [cursor=pointer]':
+          - /url: /contact/
+        - 'link "Notice: Revised Schedule for PhD Admissions 2026-27 (Download Official Notice)" [ref=e13] [cursor=pointer]':
+          - /url: /assets/Notice_Revised_Schedule_PhD_Admissions_2026_27.docx
+        - 'link "Important: PhD Addendum & Revised Timeline available for download" [ref=e14] [cursor=pointer]':
+          - /url: /assets/SMRU_PhD_Addendum_Formatted.docx
+        - 'link "Daily Update: Admissions open for UG, PG, and PhD programs" [ref=e15] [cursor=pointer]':
+          - /url: /admissions/
+        - 'link "Important: Scholarship support available up to 50% (terms apply)" [ref=e16] [cursor=pointer]':
+          - /url: /admissions/
+        - 'link "Flash: PhD Entrance Test scheduled on 26-April-2026" [ref=e17] [cursor=pointer]':
+          - /url: /phd-admissions/
+        - 'link "Notice: Campus visits and counseling slots open this week" [ref=e18] [cursor=pointer]':
+          - /url: /contact/
+      - link "Notice" [ref=e19] [cursor=pointer]:
+        - /url: /admissions/
+        - generic [ref=e20]: Notice
+    - navigation [ref=e21]:
+      - generic [ref=e22]:
+        - link "St. Mary's Rehabilitation University Logo" [ref=e23] [cursor=pointer]:
+          - /url: /
+          - img "St. Mary's Rehabilitation University Logo" [ref=e24]
+        - list [ref=e25]:
+          - listitem [ref=e26]:
+            - link "Home" [ref=e27] [cursor=pointer]:
+              - /url: /
+              - text: Home
+          - listitem [ref=e28]:
+            - link "About" [ref=e29] [cursor=pointer]:
+              - /url: /about/
+              - text: About
+          - listitem [ref=e30]:
+            - link "Partners" [ref=e31] [cursor=pointer]:
+              - /url: /partner/
+              - text: Partners
+          - listitem [ref=e32]:
+            - link "Academic Schools Mega Menu" [ref=e33] [cursor=pointer]:
+              - /url: /schools/
+              - text: Schools
+              - generic [ref=e34]: ▼
+          - listitem [ref=e35]:
+            - link "Official University Admissions Mega Menu" [ref=e36] [cursor=pointer]:
+              - /url: /admissions/
+              - text: Admissions
+              - generic [ref=e37]: ▼
+          - listitem [ref=e38]:
+            - link "Careers" [ref=e39] [cursor=pointer]:
+              - /url: /careers/
+              - text: Careers
+          - listitem [ref=e40]:
+            - link "Contact" [ref=e41] [cursor=pointer]:
+              - /url: /contact/
+              - text: Contact
+          - listitem [ref=e42]:
+            - link "Campus 360" [ref=e43] [cursor=pointer]:
+              - /url: /campus-360/
+              - text: Campus 360
+      - generic:
+        - generic:
+          - generic:
+            - button "Close menu":
+              - img
+          - generic:
+            - navigation:
+              - generic:
+                - link "Home":
+                  - /url: /
+              - generic:
+                - link "About Us":
+                  - /url: /about/
+              - generic:
+                - link "Partners":
+                  - /url: /partner/
+              - generic:
+                - generic:
+                  - button "Schools ▼":
+                    - generic: Schools
+                    - generic: ▼
+                  - list:
+                    - listitem:
+                      - link "All Schools":
+                        - /url: /schools/
+                    - listitem:
+                      - link "School of Rehabilitation Sciences":
+                        - /url: /schools/rehabilitation-sciences/
+                    - listitem:
+                      - link "School of Health & Allied Health Sciences":
+                        - /url: /schools/health-allied-health-sciences/
+                    - listitem:
+                      - link "School of Psychology":
+                        - /url: /schools/psychology/
+                    - listitem:
+                      - link "School of Nursing":
+                        - /url: /schools/nursing-sciences/
+                    - listitem:
+                      - link "School of Engineering & Emerging Technologies":
+                        - /url: /schools/engineering-emerging-technologies/
+                    - listitem:
+                      - link "School of Law":
+                        - /url: /schools/law/
+                    - listitem:
+                      - link "Academic Structure":
+                        - /url: /academic-structure/
+              - generic:
+                - generic:
+                  - button "Admissions ▼":
+                    - generic: Admissions
+                    - generic: ▼
+                  - list:
+                    - listitem:
+                      - link "Admissions Overview":
+                        - /url: /admissions/
+                    - listitem:
+                      - link "UG Admissions":
+                        - /url: /admissions/
+                    - listitem:
+                      - link "PG Admissions":
+                        - /url: /admissions/
+                    - listitem:
+                      - link "PhD Admissions":
+                        - /url: /phd-admissions/
+                    - listitem:
+                      - link "Post-Diploma":
+                        - /url: /admissions/
+                    - listitem:
+                      - link "Scholarship Support":
+                        - /url: /admissions/
+                    - listitem:
+                      - link "Entrance Test 2026":
+                        - /url: /phd-admissions/
+                    - listitem:
+                      - link "Fee Structure":
+                        - /url: /admissions/
+                    - listitem:
+                      - link "Mandatory Disclosure":
+                        - /url: /mandatory-disclosure/
+                    - listitem:
+                      - link "Apply Now":
+                        - /url: https://apply.smru.edu.in
+              - generic:
+                - link "Careers":
+                  - /url: /careers/
+              - generic:
+                - link "Campus 360":
+                  - /url: /campus-360/
+              - generic:
+                - link "Contact Us":
+                  - /url: /contact/
+          - generic:
+            - button "Enquire for 2026 Admissions": Enquire Now
+            - paragraph: © 2026 St. Mary's Rehabilitation University
+  - main [ref=e44]:
+    - generic [ref=e45]:
+      - img "St. Mary's Rehabilitation University Deshmukhi Campus Aerial View" [ref=e48]
+      - generic [ref=e50]:
+        - generic [ref=e53]: Admissions 2026-27 Open
+        - heading "St. Mary's Rehabilitation University." [level=1] [ref=e55]
+        - paragraph [ref=e56]: Hyderabad • Act No. 10 of 2026 • UGC 2(f) Recognized
+    - generic [ref=e60]:
+      - generic [ref=e62]:
+        - generic [ref=e63]:
+          - generic [ref=e64]: Now Happening
+          - generic [ref=e65]: PhD Admission 2026-27
+        - heading "Registration Open for Doctoral Programs" [level=2] [ref=e66]
+      - generic [ref=e67]:
+        - generic:
+          - img
+        - generic [ref=e68]:
+          - generic [ref=e69]:
+            - paragraph [ref=e70]: Current Status
+            - paragraph [ref=e71]: Phase 1 Complete
+          - generic [ref=e72]:
+            - paragraph [ref=e73]: Phase 2 Intake
+            - paragraph [ref=e74]: Announcing Soon
+        - link "Explore PhD" [ref=e75] [cursor=pointer]:
+          - /url: /phd-admissions/
+          - text: Explore PhD
+          - img [ref=e76]
+    - paragraph [ref=e80]: St. Mary’s Rehabilitation University is established through Telangana Gazette Act No. 10 of 2026 and recognized by the University Grants Commission under Section 2(f) of the UGC Act, 1956.
+    - generic [ref=e82]:
+      - generic [ref=e83]:
+        - heading "Why Join St. Mary's University?" [level=2] [ref=e84]
+        - paragraph [ref=e86]: SMRU brings together rehabilitation, healthcare, allied sciences, assistive technology, law, management, technology, and multidisciplinary education through a student-first academic ecosystem.
+      - list [ref=e87]:
+        - listitem [ref=e88]:
+          - article [ref=e89]:
+            - generic [ref=e90]:
+              - generic [ref=e92]: "1"
+              - generic [ref=e93]:
+                - heading "Rehabilitation & Healthcare Focus" [level=4] [ref=e94]
+                - paragraph [ref=e95]: Dedicated clinical training embedded into healthcare and allied sciences programmes.
+        - listitem [ref=e96]:
+          - article [ref=e97]:
+            - generic [ref=e98]:
+              - generic [ref=e100]: "2"
+              - generic [ref=e101]:
+                - heading "6 Focused Schools" [level=4] [ref=e102]
+                - paragraph [ref=e103]: A streamlined structure offering depth and specialization across key academic fields.
+        - listitem [ref=e104]:
+          - article [ref=e105]:
+            - generic [ref=e106]:
+              - generic [ref=e108]: "3"
+              - generic [ref=e109]:
+                - heading "Student-First Ecosystem" [level=4] [ref=e110]
+                - paragraph [ref=e111]: Built to support student outcomes from admission through graduation and beyond.
+        - listitem [ref=e112]:
+          - article [ref=e113]:
+            - generic [ref=e114]:
+              - generic [ref=e116]: "4"
+              - generic [ref=e117]:
+                - heading "Statutory Compliance" [level=4] [ref=e118]
+                - paragraph [ref=e119]: Operating transparently under UGC 2(f) and State University guidelines.
+    - generic [ref=e121]:
+      - generic [ref=e122]:
+        - heading "Explore Our 6 Schools" [level=2] [ref=e123]
+        - paragraph [ref=e125]: Discover focused programmes designed for modern professional pathways in rehabilitation, health, technology, and management.
+      - generic [ref=e126]:
+        - link "Explore Programmes School of Rehabilitation Sciences" [ref=e127] [cursor=pointer]:
+          - /url: /schools/rehabilitation-sciences/
+          - generic [ref=e131]:
+            - generic [ref=e132]: Explore Programmes
+            - img [ref=e134]
+          - heading "School of Rehabilitation Sciences" [level=3] [ref=e136]
+        - link "Explore Programmes School of Health & Allied Health Sciences" [ref=e137] [cursor=pointer]:
+          - /url: /schools/health-allied-health-sciences/
+          - generic [ref=e141]:
+            - generic [ref=e142]: Explore Programmes
+            - img [ref=e144]
+          - heading "School of Health & Allied Health Sciences" [level=3] [ref=e146]
+        - link "Explore Programmes School of Psychology" [ref=e147] [cursor=pointer]:
+          - /url: /schools/psychology/
+          - generic [ref=e151]:
+            - generic [ref=e152]: Explore Programmes
+            - img [ref=e154]
+          - heading "School of Psychology" [level=3] [ref=e156]
+        - link "Explore Programmes School of Nursing" [ref=e157] [cursor=pointer]:
+          - /url: /schools/nursing-sciences/
+          - generic [ref=e161]:
+            - generic [ref=e162]: Explore Programmes
+            - img [ref=e164]
+          - heading "School of Nursing" [level=3] [ref=e166]
+        - link "Explore Programmes School of Engineering & Emerging Technologies" [ref=e167] [cursor=pointer]:
+          - /url: /schools/engineering-emerging-technologies/
+          - generic [ref=e171]:
+            - generic [ref=e172]: Explore Programmes
+            - img [ref=e174]
+          - heading "School of Engineering & Emerging Technologies" [level=3] [ref=e176]
+        - link "Explore Programmes School of Law" [ref=e177] [cursor=pointer]:
+          - /url: /schools/law/
+          - generic [ref=e181]:
+            - generic [ref=e182]: Explore Programmes
+            - img [ref=e184]
+          - heading "School of Law" [level=3] [ref=e186]
+    - generic [ref=e188]:
+      - generic [ref=e189]:
+        - heading "Teaching Techniques at St. Mary's University" [level=2] [ref=e190]
+        - paragraph [ref=e192]: We follow advanced, practice-based teaching methods to ensure students gain hands-on experience and a deep understanding of their field.
+      - generic [ref=e193]:
+        - article [ref=e194]:
+          - generic [ref=e195]:
+            - img [ref=e199]
+            - generic [ref=e201]:
+              - generic [ref=e202]: Hands-On
+              - heading "Clinical Exposure" [level=3] [ref=e203]
+            - paragraph [ref=e204]: Practical, functional tasks in clinical settings that improve learning retention and professional readiness.
+        - article [ref=e206]:
+          - generic [ref=e207]:
+            - img [ref=e211]
+            - generic [ref=e213]:
+              - generic [ref=e214]: Advanced Facilities
+              - heading "Simulation Labs" [level=3] [ref=e215]
+            - paragraph [ref=e216]: Realistic clinical simulations that prepare students for patient-facing and technical scenarios.
+        - article [ref=e218]:
+          - generic [ref=e219]:
+            - img [ref=e223]
+            - generic [ref=e225]:
+              - generic [ref=e226]: Integrated Methods
+              - heading "Multisensory Learning" [level=3] [ref=e227]
+            - paragraph [ref=e228]: Integrated methods that engage visual, auditory, and kinesthetic pathways.
+        - article [ref=e230]:
+          - generic [ref=e231]:
+            - img [ref=e235]
+            - generic [ref=e237]:
+              - generic [ref=e238]: Collaborative Review
+              - heading "Peer-Led Case Discussions" [level=3] [ref=e239]
+            - paragraph [ref=e240]: Collaborative case reviews to build critical thinking and team-based decision skills.
+    - generic [ref=e243]:
+      - generic [ref=e244]:
+        - heading "World-Class Campus" [level=2] [ref=e245]
+        - paragraph [ref=e247]: State-of-the-art facilities designed to foster an environment of continuous learning and well-being.
+      - generic [ref=e248]:
+        - generic [ref=e249]:
+          - img [ref=e251]
+          - heading "Modern hostels" [level=3] [ref=e253]
+          - paragraph [ref=e254]: Comfortable and secure accommodation with 24/7 surveillance.
+        - generic [ref=e255]:
+          - img [ref=e257]
+          - heading "advanced labs" [level=3] [ref=e259]
+          - paragraph [ref=e260]: State-of-the-art laboratories equipped for research and clinical training.
+        - generic [ref=e261]:
+          - img [ref=e263]
+          - heading "sports complex" [level=3] [ref=e265]
+          - paragraph [ref=e266]: Advanced sports facilities that promote holistic fitness.
+        - generic [ref=e267]:
+          - img [ref=e269]
+          - heading "wellness center" [level=3] [ref=e271]
+          - paragraph [ref=e272]: Comprehensive health and wellness support.
+        - generic [ref=e273]:
+          - img [ref=e275]
+          - heading "green spaces" [level=3] [ref=e277]
+          - paragraph [ref=e278]: Eco-friendly campus featuring meditation gardens.
+        - generic [ref=e279]:
+          - img [ref=e281]
+          - heading "campus bike rental" [level=3] [ref=e283]
+          - paragraph [ref=e284]: Low-cost bike rental for quick, comfortable movement between campus locations.
+    - generic [ref=e286]:
+      - generic [ref=e287]:
+        - heading "Our Industrial Partners" [level=2] [ref=e288]
+        - paragraph [ref=e290]: SMRU collaborates with leading healthcare and technology organizations to ensure our students graduate industry-ready.
+      - generic [ref=e291]:
+        - generic [ref=e293]:
+          - generic [ref=e294]: NIAT
+          - generic [ref=e295]: NxtWave of Innovation in Advanced Technologies
+        - generic [ref=e297]:
+          - generic [ref=e298]: NST
+          - generic [ref=e299]: Newton Science of Technologies
+        - generic [ref=e301]:
+          - generic [ref=e302]: QTST
+          - generic [ref=e303]: Quality Thought School of Technology
+        - generic [ref=e305]:
+          - generic [ref=e306]: IIAT
+          - generic [ref=e307]: Indian Institute of Advanced Technologies
+        - generic [ref=e309]:
+          - generic [ref=e310]: IST
+          - generic [ref=e311]: Intellipaat School of Technology
+        - generic [ref=e314]: ByteXL
+        - generic [ref=e316]:
+          - generic [ref=e317]: BB
+          - generic [ref=e318]: Blackbucks Group
+        - generic [ref=e320]:
+          - generic [ref=e321]: Veloces
+          - generic [ref=e322]: Veloces Campus
+        - generic [ref=e325]: Emversity
+        - generic [ref=e328]: Edinbox
+        - generic [ref=e331]: Edridge
+        - generic [ref=e334]: NextGen
+    - generic [ref=e337]:
+      - generic [ref=e338]:
+        - img [ref=e340]
+        - heading "Hostel Facilities at St. Mary's University." [level=2] [ref=e342]
+        - paragraph [ref=e344]: We provide a comfortable, secure, and nurturing home away from home. Our modern hostel blocks are equipped with 24/7 security, high-speed Wi-Fi, and recreational spaces designed to support both academic focus and personal well-being.
+        - list [ref=e345]:
+          - listitem [ref=e346]:
+            - generic [ref=e347]: ✓
+            - text: 24/7 CCTV Surveillance & Security
+          - listitem [ref=e348]:
+            - generic [ref=e349]: ✓
+            - text: High-Speed Wi-Fi Access
+          - listitem [ref=e350]:
+            - generic [ref=e351]: ✓
+            - text: Modern Recreational Rooms
+          - listitem [ref=e352]:
+            - generic [ref=e353]: ✓
+            - text: In-House Medical Assistance
+      - generic [ref=e354]:
+        - generic [ref=e355]:
+          - img "Hostel Study Area" [ref=e356]
+          - generic [ref=e357]:
+            - paragraph [ref=e358]: Premium Facilities
+            - paragraph [ref=e359]: Dedicated Study Workspaces
+        - generic [ref=e360]:
+          - img "Air Conditioned Rooms" [ref=e361]
+          - generic [ref=e362]:
+            - paragraph [ref=e363]: Comfort First
+            - paragraph [ref=e364]: Air-Conditioned Bedrooms
+    - generic [ref=e367]:
+      - generic [ref=e368]:
+        - heading "Campus Canteen at St. Mary's University" [level=2] [ref=e369]
+        - paragraph [ref=e370]: Our central cafeteria serves as the social hub of the campus, offering a diverse, nutritious, and hygienically prepared menu that caters to various dietary preferences.
+        - generic [ref=e371]:
+          - generic [ref=e372]: Hygienic and fresh meal preparation
+          - generic [ref=e374]: Spacious and comfortable seating
+          - generic [ref=e376]: Balanced and nutritious menu options
+          - generic [ref=e378]: Convenient location near academic blocks
+      - img "Campus Canteen" [ref=e381]
+    - generic [ref=e383]:
+      - generic [ref=e384]:
+        - heading "Scholarships at St. Mary's University" [level=2] [ref=e385]
+        - paragraph [ref=e387]: We believe that quality education should be accessible. SMRU offers robust scholarship programs for meritorious and deserving students.
+      - generic [ref=e388]:
+        - generic [ref=e389]:
+          - img [ref=e390]
+          - text: Freshman Merit Scholarship
+        - generic [ref=e392]:
+          - img [ref=e393]
+          - text: Dr. Bharathi Rao Founder Scholarship
+        - generic [ref=e395]:
+          - img [ref=e396]
+          - text: Minority Scholarship
+        - generic [ref=e398]:
+          - img [ref=e399]
+          - text: Girl Student Scholarship
+        - generic [ref=e401]:
+          - img [ref=e402]
+          - text: Defence Ward Scholarship
+        - generic [ref=e404]:
+          - img [ref=e405]
+          - text: Single Parent Scholarship
+        - generic [ref=e407]:
+          - img [ref=e408]
+          - text: Chancellor's Excellence Award
+        - generic [ref=e410]:
+          - img [ref=e411]
+          - text: SC/ST Empowerment Scholarship
+        - generic [ref=e413]:
+          - img [ref=e414]
+          - text: Early Bird Scholarship
+    - generic [ref=e417]:
+      - img [ref=e419]
+      - heading "Official Recognition." [level=2] [ref=e421]
+      - paragraph [ref=e423]: St. Mary’s Rehabilitation University operates under complete statutory compliance. We are established by the Government of Telangana and recognized by the UGC, ensuring our degrees hold official value across India and globally.
+      - link "View Official Documents" [ref=e425] [cursor=pointer]:
+        - /url: /approvals-recognitions/
+        - text: View Official Documents
+        - img [ref=e426]
+    - generic [ref=e429]:
+      - heading "Begin Your Professional Journey." [level=2] [ref=e430]
+      - paragraph [ref=e431]: Admissions for the upcoming academic session are now open. Speak to our counselors or start your application today.
+      - generic [ref=e432]:
+        - button "Apply Now" [ref=e433] [cursor=pointer]:
+          - generic [ref=e434]:
+            - text: Apply Now
+            - img [ref=e435]
+        - link "Talk to Admissions" [ref=e437] [cursor=pointer]:
+          - /url: /contact/
+          - generic [ref=e438]:
+            - text: Talk to Admissions
+            - img [ref=e439]
+    - generic [ref=e442]:
+      - generic [ref=e443]:
+        - generic [ref=e444]:
+          - heading "Frequently Asked Questions" [level=2] [ref=e445]
+          - generic [ref=e446]:
+            - textbox "Search FAQs..." [ref=e447]
+            - img [ref=e449]
+        - generic [ref=e453]:
+          - generic [ref=e454]:
+            - button "Student Aspirants" [ref=e455] [cursor=pointer]:
+              - text: Student Aspirants
+              - img [ref=e456]
+            - button "Admissions" [ref=e458] [cursor=pointer]:
+              - text: Admissions
+              - img [ref=e459]
+            - button "Programs" [ref=e461] [cursor=pointer]:
+              - text: Programs
+              - img [ref=e462]
+            - button "Financial Aid" [ref=e464] [cursor=pointer]:
+              - text: Financial Aid
+              - img [ref=e465]
+            - button "Campus Life" [ref=e467] [cursor=pointer]:
+              - text: Campus Life
+              - img [ref=e468]
+          - generic [ref=e470]:
+            - button "How do I compare the right course at SMRU?" [ref=e472] [cursor=pointer]:
+              - generic [ref=e473]: How do I compare the right course at SMRU?
+              - img [ref=e474]
+            - button "Can I see eligibility and duration before applying?" [ref=e477] [cursor=pointer]:
+              - generic [ref=e478]: Can I see eligibility and duration before applying?
+              - img [ref=e479]
+            - button "Where should I check fees and scholarships first?" [ref=e482] [cursor=pointer]:
+              - generic [ref=e483]: Where should I check fees and scholarships first?
+              - img [ref=e484]
+            - button "What if I am not sure which program fits my background?" [ref=e487] [cursor=pointer]:
+              - generic [ref=e488]: What if I am not sure which program fits my background?
+              - img [ref=e489]
+      - generic [ref=e492]:
+        - heading "Important Links" [level=2] [ref=e494]
+        - generic [ref=e496]:
+          - link "Approvals & Recognitions Official trust and compliance disclosure location for verified public updates. Open Page" [ref=e497] [cursor=pointer]:
+            - /url: /approvals-recognitions/
+            - heading "Approvals & Recognitions" [level=3] [ref=e498]
+            - paragraph [ref=e499]: Official trust and compliance disclosure location for verified public updates.
+            - generic [ref=e500]: Open Page
+          - link "Mandatory Disclosure Public disclosure index for statutory and institutional information. Open Page" [ref=e501] [cursor=pointer]:
+            - /url: /mandatory-disclosure/
+            - heading "Mandatory Disclosure" [level=3] [ref=e502]
+            - paragraph [ref=e503]: Public disclosure index for statutory and institutional information.
+            - generic [ref=e504]: Open Page
+          - link "Admissions 2026 Official admissions routes for UG, PG, diploma, and doctoral pathways. Open Page" [ref=e505] [cursor=pointer]:
+            - /url: /admissions/
+            - heading "Admissions 2026" [level=3] [ref=e506]
+            - paragraph [ref=e507]: Official admissions routes for UG, PG, diploma, and doctoral pathways.
+            - generic [ref=e508]: Open Page
+          - link "Fee Structure Information regarding program fees and financial policies. Open Page" [ref=e509] [cursor=pointer]:
+            - /url: /fee-structure/
+            - heading "Fee Structure" [level=3] [ref=e510]
+            - paragraph [ref=e511]: Information regarding program fees and financial policies.
+            - generic [ref=e512]: Open Page
+          - link "Campus Location Hyderabad campus location details and map references. Open Page" [ref=e513] [cursor=pointer]:
+            - /url: /campus-location-hyderabad/
+            - heading "Campus Location" [level=3] [ref=e514]
+            - paragraph [ref=e515]: Hyderabad campus location details and map references.
+            - generic [ref=e516]: Open Page
+          - link "Contact Helpdesk Campus, admissions, and public support contact details. Open Page" [ref=e517] [cursor=pointer]:
+            - /url: /contact/
+            - heading "Contact Helpdesk" [level=3] [ref=e518]
+            - paragraph [ref=e519]: Campus, admissions, and public support contact details.
+            - generic [ref=e520]: Open Page
+          - link "Visit Campus Campus visit planning and public location guidance. Open Page" [ref=e521] [cursor=pointer]:
+            - /url: /visit-campus/
+            - heading "Visit Campus" [level=3] [ref=e522]
+            - paragraph [ref=e523]: Campus visit planning and public location guidance.
+            - generic [ref=e524]: Open Page
+          - link "Careers Explore faculty and institutional job opportunities at SMRU. Open Page" [ref=e525] [cursor=pointer]:
+            - /url: /careers/
+            - heading "Careers" [level=3] [ref=e526]
+            - paragraph [ref=e527]: Explore faculty and institutional job opportunities at SMRU.
+            - generic [ref=e528]: Open Page
+  - alert [ref=e529]
+  - generic [ref=e530]:
+    - link "WhatsApp" [ref=e531] [cursor=pointer]:
+      - /url: https://wa.me/917331119438
+      - img [ref=e532]
+      - generic [ref=e534]: WhatsApp
+    - link "Call Us" [ref=e535] [cursor=pointer]:
+      - /url: tel:08071296016
+      - img [ref=e536]
+      - generic [ref=e538]: Call Us
+    - link "Apply" [ref=e539] [cursor=pointer]:
+      - /url: https://apply.smru.edu.in
+      - img [ref=e540]
+      - generic [ref=e542]: Apply
+    - button "Enquiry" [ref=e543] [cursor=pointer]:
+      - img [ref=e544]
+      - generic [ref=e546]: Enquiry
+    - link "Brochure" [ref=e547] [cursor=pointer]:
+      - /url: /brochure/
+      - img [ref=e548]
+      - generic [ref=e550]: Brochure
+  - contentinfo [ref=e552]:
+    - generic [ref=e553]:
+      - generic [ref=e554]:
+        - generic [ref=e555]:
+          - generic [ref=e556]:
+            - generic [ref=e557]:
+              - heading "ST.MARY'S" [level=3] [ref=e558]
+              - paragraph [ref=e559]: Rehabilitation University
+            - paragraph [ref=e560]: Pioneering allied health and rehabilitation sciences since 1996.
+          - generic [ref=e561]:
+            - heading "Contact" [level=4] [ref=e562]
+            - generic [ref=e563]:
+              - generic [ref=e564]:
+                - img [ref=e565]
+                - paragraph [ref=e567]: Near Ramoji Film City, Deshmukhi Village, Pochampally Mandal, Yadadri Bhuvanagiri District, Hyderabad, Telangana - 508284, India.
+              - generic [ref=e568]:
+                - img [ref=e569]
+                - generic [ref=e571]:
+                  - paragraph [ref=e572]: "08071296016"
+                  - paragraph [ref=e573]: +91-7331119432
+              - generic [ref=e574]:
+                - img [ref=e575]
+                - paragraph [ref=e577]: reach@smru.edu.in
+          - generic [ref=e578]:
+            - heading "Social" [level=4] [ref=e579]
+            - generic [ref=e580]:
+              - link "YouTube" [ref=e581] [cursor=pointer]:
+                - /url: https://www.youtube.com/@SMRUniversity
+                - img [ref=e582]
+              - link "Facebook" [ref=e584] [cursor=pointer]:
+                - /url: https://www.facebook.com/SMRUniversity
+                - img [ref=e585]
+              - link "Instagram" [ref=e587] [cursor=pointer]:
+                - /url: https://www.instagram.com/smruhyderabad
+                - img [ref=e588]
+              - link "LinkedIn" [ref=e590] [cursor=pointer]:
+                - /url: https://www.linkedin.com/company/smruhyderabad/
+                - img [ref=e591]
+        - generic [ref=e593]:
+          - heading "Academics" [level=4] [ref=e594]
+          - navigation "Academics" [ref=e595]:
+            - list [ref=e596]:
+              - listitem [ref=e597]:
+                - link "All Academic Schools" [ref=e598] [cursor=pointer]:
+                  - /url: /schools/
+              - listitem [ref=e599]:
+                - link "School of Rehabilitation Sciences" [ref=e600] [cursor=pointer]:
+                  - /url: /schools/rehabilitation-sciences/
+              - listitem [ref=e601]:
+                - link "School of Health & Allied Health Sciences" [ref=e602] [cursor=pointer]:
+                  - /url: /schools/health-allied-health-sciences/
+              - listitem [ref=e603]:
+                - link "School of Psychology" [ref=e604] [cursor=pointer]:
+                  - /url: /schools/psychology/
+              - listitem [ref=e605]:
+                - link "School of Nursing" [ref=e606] [cursor=pointer]:
+                  - /url: /schools/nursing-sciences/
+              - listitem [ref=e607]:
+                - link "School of Engineering & Emerging Technologies" [ref=e608] [cursor=pointer]:
+                  - /url: /schools/engineering-emerging-technologies/
+              - listitem [ref=e609]:
+                - link "School of Law" [ref=e610] [cursor=pointer]:
+                  - /url: /schools/law/
+        - generic [ref=e611]:
+          - generic [ref=e612]:
+            - heading "Admissions" [level=4] [ref=e613]
+            - navigation "Admissions" [ref=e614]:
+              - list [ref=e615]:
+                - listitem [ref=e616]:
+                  - button "Apply Now" [ref=e617] [cursor=pointer]
+                - listitem [ref=e618]:
+                  - link "Admissions Overview" [ref=e619] [cursor=pointer]:
+                    - /url: /admissions/
+                - listitem [ref=e620]:
+                  - link "Ph.D. Admissions" [ref=e621] [cursor=pointer]:
+                    - /url: /phd-admissions/
+                - listitem [ref=e622]:
+                  - link "Fee Structure" [ref=e623] [cursor=pointer]:
+                    - /url: /fee-structure/
+                - listitem [ref=e624]:
+                  - link "Admission Policy" [ref=e625] [cursor=pointer]:
+                    - /url: /admission-policy/
+          - generic [ref=e626]:
+            - heading "Campus" [level=4] [ref=e627]
+            - navigation "Campus" [ref=e628]:
+              - list [ref=e629]:
+                - listitem [ref=e630]:
+                  - link "Campus Location" [ref=e631] [cursor=pointer]:
+                    - /url: /campus-location-hyderabad/
+                - listitem [ref=e632]:
+                  - link "Visit Campus" [ref=e633] [cursor=pointer]:
+                    - /url: /visit-campus/
+                - listitem [ref=e634]:
+                  - link "Hostel Facilities" [ref=e635] [cursor=pointer]:
+                    - /url: /hostel/
+        - generic [ref=e636]:
+          - heading "Student Support" [level=4] [ref=e637]
+          - navigation "Student Support" [ref=e638]:
+            - list [ref=e639]:
+              - listitem [ref=e640]:
+                - link "Anti-Ragging" [ref=e641] [cursor=pointer]:
+                  - /url: /anti-ragging/
+              - listitem [ref=e642]:
+                - link "Grievance Redressal" [ref=e643] [cursor=pointer]:
+                  - /url: /grievance-redressal/
+              - listitem [ref=e644]:
+                - link "Ombudsperson" [ref=e645] [cursor=pointer]:
+                  - /url: /ombudsperson/
+              - listitem [ref=e646]:
+                - link "Scholarships & Aid" [ref=e647] [cursor=pointer]:
+                  - /url: /scholarships/
+              - listitem [ref=e648]:
+                - link "Placements" [ref=e649] [cursor=pointer]:
+                  - /url: /placements/
+              - listitem [ref=e650]:
+                - link "Contact Directory" [ref=e651] [cursor=pointer]:
+                  - /url: /contact-directory/
+        - generic [ref=e652]:
+          - heading "Information & Disclosures" [level=4] [ref=e653]
+          - navigation "University Information & Disclosures" [ref=e654]:
+            - list [ref=e655]:
+              - listitem [ref=e656]:
+                - link "Approvals & Recognitions" [ref=e657] [cursor=pointer]:
+                  - /url: /approvals-recognitions/
+              - listitem [ref=e658]:
+                - link "UGC Recognition Letter" [ref=e659] [cursor=pointer]:
+                  - /url: /assets/St.%20Marys%20Rehabilitation%20University%20UGC%20recognition%20letter%202(f).pdf
+              - listitem [ref=e660]:
+                - link "University Establishment Act" [ref=e661] [cursor=pointer]:
+                  - /url: /assets/SMRU%20Act%2010%20of%202026.pdf
+              - listitem [ref=e662]:
+                - link "Mandatory Disclosure" [ref=e663] [cursor=pointer]:
+                  - /url: /mandatory-disclosure/
+              - listitem [ref=e664]:
+                - link "Public Information" [ref=e665] [cursor=pointer]:
+                  - /url: /public-information/
+              - listitem [ref=e666]:
+                - link "Statutory Disclosures" [ref=e667] [cursor=pointer]:
+                  - /url: /statutory-disclosures/
+              - listitem [ref=e668]:
+                - link "IQAC & Quality" [ref=e669] [cursor=pointer]:
+                  - /url: /iqac-quality-assurance/
+      - generic [ref=e670]:
+        - button "Scroll to top" [ref=e671] [cursor=pointer]:
+          - img [ref=e672]
+        - generic [ref=e674]:
+          - generic [ref=e675]:
+            - paragraph [ref=e676]: SMRU Hyderabad • Since 1996
+            - paragraph [ref=e677]: Copyrights © 2026 St. Mary's Rehabilitation University. All rights reserved.
+          - generic [ref=e678]:
+            - link "Privacy Policy" [ref=e679] [cursor=pointer]:
+              - /url: /privacy-policy/
+            - link "Terms Of Service" [ref=e680] [cursor=pointer]:
+              - /url: /terms-of-service/
+            - link "Academics" [ref=e681] [cursor=pointer]:
+              - /url: /schools/
